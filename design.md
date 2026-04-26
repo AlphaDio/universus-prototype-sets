@@ -45,6 +45,26 @@ The character packages should have soft rock-paper-scissors pressure through att
 - Lin uses low-zone Assassin attacks to punish high-block profiles while forcing poison inevitability.
 - Seth has the strongest block modifiers, but his mid-block profile is pressured by fast decks and repeated foundation movement.
 
+## Matchup Construction Method
+
+Matchups should be created through measurable combat profiles, not only through explicit silver-bullet card text. Each character file should track:
+
+- Attack-zone distribution: High, Mid, and Low percentages among that character's attacks.
+- Average attack speed.
+- Block-zone distribution: High, Mid, and Low percentages among that character's attack blocks.
+- Average block modifier.
+- A short matchup-pressure note explaining what the profile pressures and what pressures it back.
+
+When adding or changing attacks, recalculate the profile and check the intended soft counter map:
+
+- Low-heavy attack profiles should pressure high-block profiles.
+- High-heavy attack profiles should pressure low-block profiles.
+- High-speed profiles should pressure mid-block profiles.
+- Strong block modifiers should stabilize a character, but not remove their exploitable zone weakness.
+- Foundation-control texture should reinforce the matchup profile instead of overriding it.
+
+This set's current matchup map is documented in `matchup.md`. If a future change moves a character's zone count by more than 1 attack, changes average speed by 0.50 or more, or changes average block modifier by 0.50 or more, update both that character's `Combat Profile` and `matchup.md`.
+
 ## Type, Tag, Keyword Model
 
 - `Type` is the main card type: Character, Attack, Foundation, Asset, Action, or Stage.
