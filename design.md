@@ -8,10 +8,12 @@ This set treats each character as a Yu-Gi-Oh-style archetype inside Universus. A
 - Most cards should have 1 symbol. Some can have 2 symbols. Three-symbol cards should be rare finishers, boss cards, or major bridge cards.
 - Foundations should have 1 effect only.
 - A Foundation may have a second effect only if that second effect is character-restricted.
-- A Foundation should have one tactical role: speed buff, damage reduction, draw, filtering, momentum gain, block quality, or protection. Do not mix roles on one Foundation.
+- A Foundation should have one tactical role: foundation control, speed buff, damage reduction, draw, filtering, momentum gain, block quality, or protection. Do not mix roles on one Foundation.
 - Effects should not be plain numerical buffs. Every effect should care about a tag, keyword, Stage, character, or archetype condition.
 - Buffs like `+1 damage`, `+1 speed`, draw, readying, and damage reduction should create deck-building incentives by naming a hook such as `Punch`, `Throw`, `Flame`, `Assassin`, `Tactics`, `Stage`, or `Lucha`.
 - If a buff is narrowly scoped to a tag, keyword, or type, it should usually be above-rate compared to a generic effect.
+- Foundation-control effects should usually be open effects. Character restrictions should mostly live on powerful buffs, signature engines, or defining finishers.
+- When a Foundation has both open foundation control and a character-restricted effect, the character line should sharpen identity without making the control text inaccessible to the archetype shell.
 
 ## Metagame Assumptions
 
@@ -20,7 +22,11 @@ Universus should not be designed as if it is only an attack back-and-forth game.
 Foundation flood is a core pressure point. A player can realistically build toward 20 foundations, and multiple foundation types can create cognitive load, excessive board tracking, and choice paralysis. Set design must actively resist this.
 
 - Every archetype should have access to foundation control, such as committing, flipping, sealing, or destroying foundations.
-- Foundation control should be present on character cards, attacks, foundations, or neutral cards so no deck has to ignore foundation spam.
+- Most foundations and many effects should interact with foundations directly. Foundation control is not a side package; it is the main board-management layer of the set.
+- Every archetype must have access to real foundation removal, whether it removes its own foundations or the rival's foundations.
+- Temporary control such as committing, flipping, and sealing is useful, but it does not replace removal because it does not reduce board size.
+- Removal should vary by archetype: destroying, removing from the game, recycling to the bottom of the deck, bouncing to hand, putting on top of the deck, or cashing in your own foundations all create different risks and advantages.
+- Destroying can trigger beneficial effects for the opponent. Bottom-decking denies death triggers but is less final than removing from the game. Bouncing can protect your own pieces or tax the rival's next turn. Topdecking is strong tempo but can give the opponent a known redraw. Removing from the game is cleanest and should be the rarest.
 - Foundation control should still be tagged and role-bound. A card should answer specific board texture, not become universal generic removal.
 - The target game length is 4 turns total, or about 2 turns per player. If games regularly go longer, foundation flood becomes more likely.
 - Damage output must be high enough for decks to threaten lethal within that 4-turn window.
@@ -58,7 +64,7 @@ Stage cards are among the few cards types that can have 2 effects universally, s
 
 - Each character should have a clear win condition but not access to every effect category.
 - Each archetype should have at least one form of protection or interaction, but not universal answers.
-- Each archetype should include at least one proactive answer to foundation flood.
+- Each archetype should include multiple proactive answers to foundation flood, including at least one effect that actually removes a foundation from the staging area.
 - Draw and ready effects should be narrow and tagged because they are high-leverage in Universus.
 - Damage reduction should specify what kind of attack it answers.
 - Damage and speed buffs should specify what kind of attack they support.

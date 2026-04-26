@@ -47,7 +47,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Void / Water
 - Tags: Venue / Aquatic
-- Text: Response Commit: After a Water, Tech, or Agent attack deals damage, its controller may add 1 card from their card pool to momentum.
+- Text: Response Commit: After an Aquatic, Tech, or Agent attack deals damage, its controller may add 1 card from their card pool to momentum.
 - Role: Momentum battlefield.
 
 ### Frozen Wharf Stage
@@ -55,7 +55,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 3 difficulty, 4 control
 - Symbols: Water / Void
 - Tags: Venue / Aquatic
-- Text: Enhance Commit: The current Flame, Tech, or Momentum attack gets -2 damage unless its controller removes 1 momentum.
+- Text: Enhance Commit: The current Flame, Tech, or Momentum attack gets -2 damage unless its controller spends 1 momentum.
 - Role: Defensive momentum tax.
 
 ### Factory Stage
@@ -119,8 +119,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Mid +3
 - Symbols: Good
 - Tags: Venue / Tournament
-- Text: Response Commit: After you play a Stage card, draw 1 card then discard 1 card.
-- Role: Stage filtering.
+- Text: Response Commit: After you play a Stage card, put 1 foundation on the bottom of its owner's deck.
+- Role: Foundation recycle.
 
 ### Shared Intel
 - Type: Foundation
@@ -128,8 +128,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: High +2
 - Symbols: Order
 - Tags: Intel / Agent
-- Text: Enhance Commit: If the current attack has the Agent, Tech, or Tactics tag, look at the top card of your deck. You may discard it.
-- Role: Deck filtering.
+- Text: Enhance Commit: If the current attack has the Agent, Tech, or Tactics tag, put 1 committed foundation on top of its owner's deck.
+- Role: Foundation topdeck.
 
 ### Tournament Nerves
 - Type: Foundation
@@ -137,8 +137,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Low +2
 - Symbols: Chaos
 - Tags: Tactics / Tournament
-- Text: Enhance Commit: The current Punch, Kick, or Strike attack gets -1 speed.
-- Role: Speed reduction.
+- Text: Enhance Commit: Commit 1 foundation if the current attack is Punch, Kick, or Strike.
+- Role: Foundation commit.
 
 ### Broken Terrain
 - Type: Foundation
@@ -146,8 +146,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Mid +2
 - Symbols: Earth
 - Tags: Terrain / Stage
-- Text: Enhance Destroy: The current Throw, Aerial, or Violence attack gets -2 damage.
-- Role: Damage reduction.
+- Text: Enhance Destroy: Destroy 1 foundation if the current attack is Throw, Aerial, or Violence.
+- Role: Foundation destruction.
 
 ### Fighter's Entrance
 - Type: Foundation
@@ -155,8 +155,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: High +3
 - Symbols: Life
 - Tags: Crowd / Tournament
-- Text: Response Commit: After your first Celebrity, Lucha, or Freestyle attack of the turn deals damage, gain 2 vitality.
-- Role: Sustain.
+- Text: Response Commit: After your first Celebrity, Lucha, or Freestyle attack of the turn deals damage, return 1 of your foundations to your hand.
+- Role: Self-foundation bounce.
 
 ### Last Round Pressure
 - Type: Foundation
@@ -164,8 +164,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Mid +3
 - Symbols: Fire
 - Tags: Tactics / Tournament
-- Text: Enhance Commit: If either player has 10 or less vitality, your Violence, Flame, or Finisher attack gets +3 damage.
-- Role: Closing damage.
+- Text: Enhance Commit: If either player has 10 or less vitality, destroy 1 foundation. Your Violence, Flame, or Finisher attack gets +3 damage.
+- Role: Foundation destruction.
 
 ### Anti-Flood Ruling
 - Type: Foundation

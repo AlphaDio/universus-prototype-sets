@@ -50,6 +50,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Tags: Ranged / Flame
 - Keywords: Combo(Flame)
 - Text: Enhance: Spend 1 momentum: Draw 1 card.
+- K-Dash Enhance: If the previous card in your card pool has the Flame tag, add the top card of your deck to your momentum.
 - Role: Combo smoothing.
 
 ### Minute Spike
@@ -69,6 +70,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Tags: Punch / Flame
 - Keywords: Powerful: 2
 - Text: Enhance: If you have 5 or more momentum, this Punch attack gets Stun: 2 and +2 damage.
+- K-Dash Enhance: Spend 2 momentum. This attack gets +4 damage.
 - Role: Main win condition.
 
 ### Heat Drive
@@ -89,8 +91,9 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Mid +3
 - Symbols: Fire
 - Tags: Training / Flame
-- Text: Enhance Commit: Your Flame attack gets +2 damage.
-- Role: Damage buff.
+- Text: Enhance Commit: Destroy 1 of your foundations. Your Flame attack gets +3 damage.
+- K-Dash Enhance Commit: If this is a Combo(Flame) attack, it gets +2 speed.
+- Role: Self-foundation conversion.
 
 ### Hidden Ignition
 - Type: Foundation
@@ -98,8 +101,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +2
 - Symbols: Fire
 - Tags: Technique / Flame
-- Text: Response Commit: After your Flame attack deals damage, add the top card of your deck to your momentum.
-- Role: Momentum gain.
+- Text: Response Commit: After your Flame attack deals damage, destroy 1 of your foundations to add the top card of your deck to your momentum.
+- Role: Self-foundation conversion.
 
 ### Black Glove Focus
 - Type: Foundation
@@ -108,6 +111,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Symbols: Fire
 - Tags: Gear / Flame
 - Text: Enhance Destroy: Your Flame attack gets +3 speed.
+- K-Dash Enhance: If you have 4 or more momentum, this attack gets +3 damage.
 - Role: Speed burst.
 
 ### Fugitive Instinct
@@ -116,8 +120,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Mid +2
 - Symbols: Chaos
 - Tags: Tactics / Momentum
-- Text: Response Commit: After your rival plays an ability that would reduce your Momentum attack's damage, cancel that damage reduction.
-- Role: Anti-reduction protection.
+- Text: Response Commit: After your rival plays an ability from a committed foundation, remove that foundation from the game if your Momentum attack is in your card pool.
+- Role: Foundation removal from game.
 
 ### Fault Line Ignition
 - Type: Foundation
@@ -125,8 +129,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +2
 - Symbols: Fire
 - Tags: Technique / Flame
-- Text: Enhance Commit: If your Combo(Flame) attack is in your card pool, seal 1 rival foundation.
-- Role: Foundation seal.
+- Text: Enhance Commit: If your Combo(Flame) attack is in your card pool, destroy 1 committed rival foundation.
+- Role: Foundation destruction.
 
 ### NESTS Afterimage
 - Type: Foundation
@@ -134,8 +138,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: High +3
 - Symbols: Fire
 - Tags: Technique / Flame
-- Text: Response Commit: After your Combo(Flame) attack is completely blocked, add 1 card from your card pool to your momentum.
-- Role: Backup momentum when pressure is blocked.
+- Text: Response Commit: After your Combo(Flame) attack is completely blocked, destroy 1 of your foundations to add 1 card from your card pool to your momentum.
+- Role: Self-foundation conversion.
 
 ### Scorched Trail
 - Type: Foundation
@@ -143,8 +147,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +3
 - Symbols: Fire
 - Tags: Terrain / Flame
-- Text: Enhance Commit, spend 1 momentum: Your Flame attack gets +2 speed and +2 damage.
-- Role: Efficient momentum spending.
+- Text: Enhance Commit, spend 1 momentum: Destroy 1 of your foundations. Your Flame attack gets +2 speed and +3 damage.
+- Role: Self-foundation conversion.
 
 ## Assets and Actions
 
@@ -157,7 +161,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Text: Response Commit: After you spend momentum to pay a cost on a Flame card, your Flame attacks gets +2 damage this turn.
 - Role: Momentum-spend payoff.
 
-### Tactical Disengage
+### Tactics Disengage
 - Type: Action
 - Stats: 3 difficulty, 4 control
 - Block: High +2

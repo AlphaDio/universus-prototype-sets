@@ -60,6 +60,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Symbols: Death / Evil
 - Tags: Strike / Assassin
 - Text: Enhance: If your rival has 2 or more poison counters, this Betrayal attack gets +4 damage.
+- Lin Enhance: Remove 1 poison counter from your rival. This attack gets +3 speed.
 - Role: Midgame damage payoff.
 
 ### Poison Moth Raid
@@ -69,6 +70,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Symbols: Death / Evil / Chaos
 - Tags: Ranged / Poison
 - Text: Enhance: Remove any number of poison counters from your rival. This Poison attack gets +3 damage for each counter removed this way.
+- Lin Enhance: If you removed 2 or more poison counters this Enhance Step, your rival cannot play abilities on foundations for the rest of this attack.
 - Role: Rare three-symbol finisher.
 
 ## Foundations
@@ -79,8 +81,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +3
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Commit: After your Poison attack deals damage, give your rival 1 poison counter.
-- Role: Poison gain.
+- Text: Response Commit: After your Poison attack deals damage, destroy 1 rival foundation if your rival has a poison counter.
+- Role: Foundation destruction.
 
 ### Assassin's Patience
 - Type: Foundation
@@ -88,8 +90,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Low +2
 - Symbols: Death
 - Tags: Training / Assassin
-- Text: Enhance Commit: If your rival has a poison counter, your Assassin attack gets +2 speed.
-- Role: Speed buff.
+- Text: Enhance Commit: If your rival has a poison counter, remove 1 committed rival foundation from the game.
+- Role: Foundation removal from game.
 
 ### Blackened Veins
 - Type: Foundation
@@ -97,8 +99,9 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: High +2
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Commit: After your rival removes a poison counter during the End Phase, they lose 1 vitality.
-- Role: Poison inevitability.
+- Text: Response Commit: After your rival removes a poison counter during the End Phase, destroy 1 rival foundation.
+- Lin Response Commit: After your rival loses vitality from poison counters, they lose 2 vitality.
+- Role: Foundation destruction.
 
 ### Hidden Antidote
 - Type: Foundation
@@ -106,8 +109,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +2
 - Symbols: Evil
 - Tags: Medicine / Poison
-- Text: Enhance Commit: Remove 1 poison counter from yourself if you have played an Assassin card this turn.
-- Role: Self-poison protection.
+- Text: Enhance Commit: Destroy 1 of your foundations to remove 1 poison counter from yourself.
+- Role: Self-foundation conversion.
 
 ### Shadow Discipline
 - Type: Foundation
@@ -115,8 +118,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: High +3
 - Symbols: Death
 - Tags: Training / Assassin
-- Text: Enhance Destroy: Your rival's Punch, Kick, or Strike attack gets -2 damage if they have a poison counter and your block has the Assassin tag.
-- Role: Damage reduction.
+- Text: Enhance Destroy: Remove 1 rival foundation from the game if they have a poison counter and your block has the Assassin tag.
+- Role: Foundation removal from game.
 
 ### Venom in the Floorboards
 - Type: Foundation
@@ -133,8 +136,9 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Low +3
 - Symbols: Evil
 - Tags: Memory / Poison
-- Text: Lin Response Commit: After your rival loses vitality from poison counters, add the top card of your deck to your momentum.
-- Role: Character-restricted momentum.
+- Text: Response Commit: After your rival loses vitality from poison counters, destroy 1 rival foundation.
+- Lin Response Commit: After you destroy a rival foundation, add the top card of your deck to your momentum.
+- Role: Foundation destruction.
 
 ## Assets and Actions
 
