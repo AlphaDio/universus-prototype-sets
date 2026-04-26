@@ -2,6 +2,14 @@
 
 Seth is an Order-centered Tactics deck that survives with strong blocks, then turns defense into Reversal attacks. He has interaction and mitigation, but he is slower to close games and has limited proactive speed boosts.
 
+## Combat Profile
+
+- Attack zones: High 33.3% (2/6), Mid 50.0% (3/6), Low 16.7% (1/6).
+- Average attack speed: 3.83.
+- Block zones: High 33.3% (2/6), Mid 66.7% (4/6), Low 0.0% (0/6).
+- Average block modifier: +1.33.
+- Matchup pressure: Efficient mid blocks stabilize against balanced decks, but Seth is pressured by high-speed attacks that can overwhelm mid-block math.
+
 ## Character
 
 ### Seth, Tactics Agent
@@ -28,7 +36,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 ### Tactics Sweep
 - Type: Attack
 - Stats: 4 difficulty, 3 control, Low, 3 speed, 5 damage
-- Block: Low +1
+- Block: Mid +1
 - Symbols: Order
 - Tags: Kick / Tactics
 - Keywords: Reversal

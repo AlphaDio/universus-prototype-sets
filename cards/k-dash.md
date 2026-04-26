@@ -2,6 +2,14 @@
 
 K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame card is already in the card pool, letting him build momentum and convert it into finishers. He has pressure and anti-reduction protection, but weak draw and limited defensive control.
 
+## Combat Profile
+
+- Attack zones: High 28.6% (2/7), Mid 14.3% (1/7), Low 57.1% (4/7).
+- Average attack speed: 4.00.
+- Block zones: High 57.1% (4/7), Mid 14.3% (1/7), Low 28.6% (2/7).
+- Average block modifier: +2.57.
+- Matchup pressure: Low-heavy attacks pressure high-block profiles, while K-Dash's own high-block profile is vulnerable to low-heavy decks.
+
 ## Character
 
 ### K-Dash, NESTS Fugitive
@@ -17,8 +25,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 
 ### Blackout Entry
 - Type: Attack
-- Stats: 3 difficulty, 3 control, Mid, 4 speed, 3 damage
-- Block: Mid +2
+- Stats: 3 difficulty, 3 control, Low, 4 speed, 3 damage
+- Block: High +2
 - Symbols: Fire
 - Tags: Kick / Flame
 - Text: Enhance: If this Flame attack deals damage, add it to your momentum instead of discarding it.
@@ -36,7 +44,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 ### Ein Trigger
 - Type: Attack
 - Stats: 4 difficulty, 3 control, Mid, 3 speed, 5 damage
-- Block: Mid +3
+- Block: High +3
 - Symbols: Fire / Chaos
 - Tags: Ranged / Flame
 - Text: Enhance: Add the top card of your deck to your momentum. If it has the Flame tag, this Ranged attack gets +3 damage.
@@ -44,7 +52,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 
 ### Second Shell
 - Type: Attack
-- Stats: 5 difficulty, 2 control, Mid, 4 speed, 5 damage
+- Stats: 5 difficulty, 2 control, Low, 4 speed, 5 damage
 - Block: Low +2
 - Symbols: Fire
 - Tags: Ranged / Flame
@@ -64,7 +72,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 
 ### Chain Drive
 - Type: Attack
-- Stats: 6 difficulty, 2 control, Mid, 4 speed, 7 damage
+- Stats: 6 difficulty, 2 control, Low, 4 speed, 7 damage
 - Block: Mid +3
 - Symbols: Fire / Chaos
 - Tags: Punch / Flame

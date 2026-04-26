@@ -4,6 +4,14 @@ Lin is a Death-centered Assassin deck that places poison counters on the rival a
 
 Poison counters: During the End Phase, each player loses 1 vitality for each poison counter on them, then removes 1 poison counter from themselves. Poison counters are not damage.
 
+## Combat Profile
+
+- Attack zones: High 0.0% (0/6), Mid 33.3% (2/6), Low 66.7% (4/6).
+- Average attack speed: 4.33.
+- Block zones: High 0.0% (0/6), Mid 33.3% (2/6), Low 66.7% (4/6).
+- Average block modifier: +2.50.
+- Matchup pressure: Low-heavy Assassin attacks pressure high-block profiles, while Lin's low-block profile is vulnerable to high-heavy attacks.
+
 ## Character
 
 ### Lin, Hizoku Assassin
@@ -37,8 +45,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 
 ### Venom Thread
 - Type: Attack
-- Stats: 4 difficulty, 3 control, High, 4 speed, 4 damage
-- Block: High +2
+- Stats: 4 difficulty, 3 control, Low, 4 speed, 4 damage
+- Block: Low +2
 - Symbols: Death / Evil
 - Tags: Ranged / Poison
 - Text: Enhance: Give your rival 1 poison counter. This Poison attack gets -1 damage.
@@ -65,8 +73,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 
 ### Poison Moth Raid
 - Type: Attack
-- Stats: 7 difficulty, 2 control, Mid, 5 speed, 7 damage
-- Block: Mid +3
+- Stats: 7 difficulty, 2 control, Low, 5 speed, 7 damage
+- Block: Low +3
 - Symbols: Death / Evil / Chaos
 - Tags: Ranged / Poison
 - Text: Enhance: Remove any number of poison counters from your rival. This Poison attack gets +3 damage for each counter removed this way.

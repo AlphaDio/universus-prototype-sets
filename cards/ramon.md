@@ -2,6 +2,14 @@
 
 Ramon is an Earth-centered deck that pressures through throws and half-block damage. He can force damage through defensive decks, but his attacks are slower and he has limited draw.
 
+## Combat Profile
+
+- Attack zones: High 50.0% (3/6), Mid 33.3% (2/6), Low 16.7% (1/6).
+- Average attack speed: 2.67.
+- Block zones: High 33.3% (2/6), Mid 0.0% (0/6), Low 66.7% (4/6).
+- Average block modifier: +2.33.
+- Matchup pressure: High-zone Throws pressure low-block profiles, while Ramon's low-block profile is vulnerable to high-heavy attack suites.
+
 ## Character
 
 ### Ramon, Lucha Star
@@ -27,7 +35,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 ### Tiger Road
 - Type: Attack
 - Stats: 4 difficulty, 3 control, Mid, 3 speed, 4 damage
-- Block: Mid +2
+- Block: Low +2
 - Symbols: Earth
 - Tags: Throw / Lucha
 - Keywords: Throw
@@ -56,8 +64,8 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 
 ### Flying Body Press
 - Type: Attack
-- Stats: 4 difficulty, 2 control, Mid, 2 speed, 4 damage
-- Block: Mid +2
+- Stats: 4 difficulty, 2 control, High, 2 speed, 4 damage
+- Block: Low +2
 - Symbols: Earth
 - Tags: Throw / Lucha
 - Keywords: Throw
@@ -68,6 +76,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 ### El Diablo Amarillo
 - Type: Attack
 - Stats: 7 difficulty, 2 control, Mid, 2 speed, 8 damage
+- Block: Low +3
 - Symbols: Earth / Life
 - Tags: Throw / Lucha
 - Keywords: Throw, Powerful: 2

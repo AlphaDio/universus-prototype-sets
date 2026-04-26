@@ -2,6 +2,14 @@
 
 Vanessa is an Air-centered Punch deck that wins by making modest attacks difficult to block. She gets speed, tempo, and a little hand filtering, but she has limited damage scaling and weak throw defense.
 
+## Combat Profile
+
+- Attack zones: High 33.3% (2/6), Mid 50.0% (3/6), Low 16.7% (1/6).
+- Average attack speed: 4.83.
+- Block zones: High 16.7% (1/6), Mid 66.7% (4/6), Low 16.7% (1/6).
+- Average block modifier: +2.33.
+- Matchup pressure: High average speed pressures mid-block profiles, but Vanessa's own mid-block profile is vulnerable to faster attacks and block-tax effects.
+
 ## Character
 
 ### Vanessa, Undercover Boxer
@@ -18,7 +26,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 ### Dash Jab
 - Type: Attack
 - Stats: 3 difficulty, 3 control, High, 5 speed, 2 damage
-- Block: High +2
+- Block: Mid +2
 - Symbols: Air
 - Tags: Punch / Boxing
 - Text: Enhance: If this Punch attack's speed is 7 or greater, it gets +3 damage.

@@ -32,6 +32,19 @@ Foundation flood is a core pressure point. A player can realistically build towa
 - Damage output must be high enough for decks to threaten lethal within that 4-turn window.
 - Defensive tools should buy a turn or force sequencing decisions, not indefinitely protect a 15-20 foundation board.
 
+## Combat Profile Matchups
+
+The character packages should have soft rock-paper-scissors pressure through attack zones, block zones, and speed.
+
+- A high-block profile should be pressured by low-heavy attack profiles.
+- A low-block profile should be pressured by high-heavy attack profiles.
+- A mid-block profile should be pressured by higher average speed, because mid blocks are easiest to over-rely on.
+- K-Dash uses low Flame routes to punish high-block profiles.
+- Vanessa uses high average speed to punish mid-block profiles.
+- Ramon uses high-zone Throw attacks to punish low-block profiles.
+- Lin uses low-zone Assassin attacks to punish high-block profiles while forcing poison inevitability.
+- Seth has the strongest block modifiers, but his mid-block profile is pressured by fast decks and repeated foundation movement.
+
 ## Type, Tag, Keyword Model
 
 - `Type` is the main card type: Character, Attack, Foundation, Asset, Action, or Stage.
