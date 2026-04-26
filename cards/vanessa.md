@@ -116,8 +116,8 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: Mid +2
 - Symbols: Air
 - Tags: Tactics / Boxing
-- Text: Response Commit: After your Boxing attack gets a speed bonus, put 1 committed rival foundation on top of its owner's deck.
-- Role: Foundation topdeck.
+- Text: Response Commit: After your Boxing attack gets a speed bonus, Prime 1 committed rival foundation.
+- Role: Foundation Prime.
 
 ### Agent's Read
 - Type: Foundation
@@ -143,9 +143,9 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: Mid +2
 - Symbols: Good
 - Tags: Memory / Boxing
-- Text: Enhance Commit: If your Boxing attack has printed damage 4 or less, put 1 committed rival foundation on top of its owner's deck.
+- Text: Enhance Commit: If your Boxing attack has printed damage 4 or less, Prime 1 committed rival foundation.
 - Vanessa Enhance Commit: That attack gets +3 damage.
-- Role: Foundation topdeck.
+- Role: Foundation Prime.
 
 ## Assets and Actions
 

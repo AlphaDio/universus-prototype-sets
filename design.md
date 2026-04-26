@@ -25,8 +25,8 @@ Foundation flood is a core pressure point. A player can realistically build towa
 - Most foundations and many effects should interact with foundations directly. Foundation control is not a side package; it is the main board-management layer of the set.
 - Every archetype must have access to real foundation removal, whether it removes its own foundations or the rival's foundations.
 - Temporary control such as committing, flipping, and sealing is useful, but it does not replace removal because it does not reduce board size.
-- Removal should vary by archetype: destroying, removing from the game, recycling to the bottom of the deck, bouncing to hand, putting on top of the deck, or cashing in your own foundations all create different risks and advantages.
-- Destroying can trigger beneficial effects for the opponent. Bottom-decking denies death triggers but is less final than removing from the game. Bouncing can protect your own pieces or tax the rival's next turn. Topdecking is strong tempo but can give the opponent a known redraw. Removing from the game is cleanest and should be the rarest.
+- Removal should vary by archetype: destroying, removing from the game, Burying, bouncing to hand, Priming, or cashing in your own foundations all create different risks and advantages.
+- Destroying can trigger beneficial effects for the opponent. Burying denies death triggers but is less final than removing from the game. Bouncing can protect your own pieces or tax the rival's next turn. Priming is strong tempo but can give the opponent a known redraw. Removing from the game is cleanest and should be the rarest.
 - Foundation control can still be tagged and role-bound. A card should answer specific board texture, not become universal generic removal.
 - The target game length is 4 turns total, or about 2 turns per player. If games regularly go longer, foundation flood becomes more likely.
 - Damage output must be high enough for decks to threaten lethal within that 4-turn window.

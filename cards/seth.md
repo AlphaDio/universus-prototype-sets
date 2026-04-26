@@ -91,8 +91,8 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +2
 - Symbols: Order
 - Tags: Guard / Tactics
-- Text: Response Commit: After you completely block an attack with a Tactics card, put 1 committed rival foundation on top of its owner's deck.
-- Role: Foundation topdeck.
+- Text: Response Commit: After you completely block an attack with a Tactics card, Prime 1 committed rival foundation.
+- Role: Foundation Prime.
 
 ### Read the Angle
 - Type: Foundation
@@ -109,9 +109,9 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Low +1
 - Symbols: Order
 - Tags: Training / Tactics
-- Text: Response Commit: After you block an attack with a Tactics card, put 1 rival foundation on top of its owner's deck.
+- Text: Response Commit: After you block an attack with a Tactics card, Prime 1 rival foundation.
 - Seth Enhance Commit: Your Reversal attack gets +3 damage.
-- Role: Foundation topdeck.
+- Role: Foundation Prime.
 
 ### Close Quarters
 - Type: Foundation
@@ -128,8 +128,8 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: High +2
 - Symbols: Void
 - Tags: Cover / Agent
-- Text: Enhance Destroy: Put 1 rival foundation on top of its owner's deck if your rival's attack is Ranged or Weapon.
-- Role: Foundation topdeck.
+- Text: Enhance Destroy: Prime 1 rival foundation if your rival's attack is Ranged or Weapon.
+- Role: Foundation Prime.
 
 ### Containment Protocol
 - Type: Foundation
@@ -146,9 +146,9 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +2
 - Symbols: Void
 - Tags: Intel / Agent
-- Text: Response Commit: After you completely block an attack with an Agent card, put 1 rival foundation on top of its owner's deck.
+- Text: Response Commit: After you completely block an attack with an Agent card, Prime 1 rival foundation.
 - Seth Response Commit: After you play a Reversal attack, draw 1 card.
-- Role: Foundation topdeck.
+- Role: Foundation Prime.
 
 ## Assets and Actions
 

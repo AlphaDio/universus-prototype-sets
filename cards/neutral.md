@@ -119,7 +119,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Mid +3
 - Symbols: Good
 - Tags: Venue / Tournament
-- Text: Response Commit: After you play a Stage card, put 1 foundation on the bottom of its owner's deck.
+- Text: Response Commit: After you play a Stage card, Bury 1 foundation.
 - Role: Foundation recycle.
 
 ### Shared Intel
@@ -128,8 +128,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: High +2
 - Symbols: Order
 - Tags: Intel / Agent
-- Text: Enhance Commit: If the current attack has the Agent, Tech, or Tactics tag, put 1 committed foundation on top of its owner's deck.
-- Role: Foundation topdeck.
+- Text: Enhance Commit: If the current attack has the Agent, Tech, or Tactics tag, Prime 1 committed foundation.
+- Role: Foundation Prime.
 
 ### Tournament Nerves
 - Type: Foundation

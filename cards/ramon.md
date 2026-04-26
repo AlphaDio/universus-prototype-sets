@@ -120,7 +120,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: Mid +3
 - Symbols: Earth
 - Tags: Gear / Lucha
-- Text: Response Commit: After your Lucha Throw attack is blocked, put 1 of your foundations on the bottom of your deck to add 2 card from your card pool to your momentum.
+- Text: Response Commit: After your Lucha Throw attack is blocked, Bury 1 of your foundations to add 2 cards from your card pool to your momentum.
 - Role: Self-foundation recycle.
 
 ### Lucha Timing
@@ -147,7 +147,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: Mid +2
 - Symbols: Life
 - Tags: Crowd / Lucha
-- Text: Response Commit: After your Lucha Throw attack deals unblocked damage, put 1 rival foundation on the bottom of its owner's deck.
+- Text: Response Commit: After your Lucha Throw attack deals unblocked damage, Bury 1 rival foundation.
 - Ramon Response Commit: After your Throw attack deals damage, gain 3 vitality.
 - Role: Foundation recycle.
 

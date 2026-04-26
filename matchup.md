@@ -25,7 +25,7 @@ This file documents the soft rock-paper-scissors layer between the five characte
 | Attacker | Pressures | Why |
 | --- | --- | --- |
 | K-Dash | K-Dash, high-block shells | Low-heavy attack profile punishes decks leaning on High blocks. His Combo(Flame) pressure can also force awkward blocks before momentum finishers. |
-| Vanessa | Vanessa, Seth, mid-block shells | Highest average speed in the set makes Mid-heavy block profiles less reliable. Her bounce/topdeck foundation control also pressures defensive boards. |
+| Vanessa | Vanessa, Seth, mid-block shells | Highest average speed in the set makes Mid-heavy block profiles less reliable. Her bounce/Prime foundation control also pressures defensive boards. |
 | Ramon | Ramon, Lin, low-block shells | High-zone Throw profile pressures decks leaning on Low blocks. Throws also keep damage moving through partial blocks. |
 | Lin | K-Dash, high-block shells | Low-heavy Assassin profile pressures High blocks, while poison punishes slow defensive games. |
 | Seth | Balanced or slower attack suites | Low average block modifier and Reversal access let Seth stabilize against ordinary attacks, but he is not meant to hard-counter speed decks. |
@@ -45,10 +45,10 @@ This file documents the soft rock-paper-scissors layer between the five characte
 | Character | Primary Foundation-Control Style | Matchup Implication |
 | --- | --- | --- |
 | K-Dash | Self-foundation destruction, rival destruction, remove from game | Converts his own board into damage and momentum, then removes key committed foundations cleanly. |
-| Vanessa | Bounce and topdeck | Uses speed pressure to make the rival replay or redraw foundations instead of stabilizing. |
-| Ramon | Bottom-deck recycling and self-recycling | Denies destruction triggers and keeps throw pressure from feeding foundation flood. |
+| Vanessa | Bounce and Prime | Uses speed pressure to make the rival replay or redraw foundations instead of stabilizing. |
+| Ramon | Bury and self-recycling | Denies destruction triggers and keeps throw pressure from feeding foundation flood. |
 | Lin | Destruction and remove from game | Punishes poison victims by converting inevitability into real board loss. |
-| Seth | Topdeck, bounce, and remove from game | Controls the rival's next draw and keeps Reversal turns from being overwhelmed by foundation boards. |
+| Seth | Prime, bounce, and remove from game | Controls the rival's next draw and keeps Reversal turns from being overwhelmed by foundation boards. |
 
 ## Design Checkpoints
 
@@ -57,4 +57,3 @@ This file documents the soft rock-paper-scissors layer between the five characte
 - No profile should be purely symmetrical unless the archetype has another strong axis of differentiation.
 - Foundation control should amplify the matchup texture instead of erasing it.
 - If future cards shift a zone distribution by more than 1 attack, recalculate this file and the character file's `Combat Profile`.
-
