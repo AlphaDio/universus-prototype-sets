@@ -102,3 +102,7 @@ Stage cards are among the few cards types that can have 2 effects universally, s
 - Damage reduction should specify what kind of attack it answers.
 - Damage and speed buffs should specify what kind of attack they support.
 - Three-symbol cards should be strong but narrow enough that they do not become generic staples.
+
+## Design tidbits
+
+- Effects that destroy the foundation should be showed and playable *after* other effects that need the foundation present.
