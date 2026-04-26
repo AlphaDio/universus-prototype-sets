@@ -11,7 +11,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Symbols: Earth / Life
 - Tags: Lucha / Freestyle
 - Enhance: Your Throw attack gets +2 damage.
-- Response: Once per turn, after your Throw attack deals damage, ready 1 foundation that was committed to play an ability this Enhance Step.
+- Response: Once per turn, after your Throw attack deals damage, ready 1 Lucha foundation.
 
 ## Attacks
 
@@ -21,17 +21,17 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: Low +2
 - Symbols: Earth
 - Tags: Kick / Freestyle
-- Text: Enhance: If your next attack this turn is a Throw, it gets +2 speed.
+- Text: Enhance: If your next attack this turn is a Throw, it gets +2 damage.
 - Role: Throw setup.
 
 ### Tiger Road
 - Type: Attack
-- Stats: 4 difficulty, 3 control, Mid, 3 speed, 5 damage
+- Stats: 4 difficulty, 3 control, Mid, 3 speed, 4 damage
 - Block: Mid +2
 - Symbols: Earth
 - Tags: Throw / Lucha
 - Keywords: Throw
-- Text: Enhance: If this attack is blocked, your rival commits 1 foundation.
+- Text: Enhance Commit 1 foundation: If this attack is blocked, your rival recycle 1 foundation.
 - Role: Basic throw pressure.
 
 ### Somersault Slam
@@ -50,29 +50,28 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: High +2
 - Symbols: Earth / Life
 - Tags: Strike / Lucha
-- Keywords: Combo(Throw)
 - Text: Enhance: This Aerial attack gets +4 damage.
+- Combo(Throw) E Spend 1 momentum: Recycle 1 rival foundation.
 - Role: Non-throw payoff.
 
 ### Flying Body Press
 - Type: Attack
-- Stats: 6 difficulty, 2 control, Mid, 3 speed, 8 damage
-- Block: Mid +3
+- Stats: 4 difficulty, 2 control, Mid, 2 speed, 4 damage
+- Block: Mid +2
 - Symbols: Earth
 - Tags: Throw / Lucha
 - Keywords: Throw
 - Text: Enhance: Commit 1 rival foundation if this is your second or later Lucha attack this turn.
-- Ramon Enhance: If this Throw attack is blocked, it deals 2 additional damage after block modifiers.
+- Ramon Enhance Spend 2 Momentum: if this Throw attack is blocked, it deals 2 additional damage after block modifiers.
 - Role: Main pressure throw.
 
 ### El Diablo Amarillo
 - Type: Attack
-- Stats: 7 difficulty, 2 control, Mid, 2 speed, 10 damage
-- Block: Mid +3
+- Stats: 7 difficulty, 2 control, Mid, 2 speed, 8 damage
 - Symbols: Earth / Life
 - Tags: Throw / Lucha
 - Keywords: Throw, Powerful: 2
-- Text: Enhance: If this Throw attack is blocked, gain 2 vitality.
+- Text: Enhance Commit 1 foundation: If this attack is blocked, gain 4 vitality.
 - Ramon Enhance: If your rival has 3 or fewer ready foundations, this attack gets +4 damage.
 - Role: Win condition and stabilizer.
 
@@ -92,7 +91,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Stats: 2 difficulty, 5 control
 - Block: High +2
 - Symbols: Life
-- Tags: Crowd / Recovery
+- Tags: Crowd / Lucha
 - Text: Response Commit: After your Lucha attack deals damage, destroy 1 of your foundations to gain 4 vitality.
 - Role: Self-foundation conversion.
 
@@ -102,8 +101,9 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: Mid +2
 - Symbols: Earth
 - Tags: Technique / Lucha
-- Text: Enhance Commit: Put 1 flipped foundation on the bottom of its owner's deck.
-- Role: Foundation recycle.
+- Text: Enhance Commit: Recycle 1 flipped foundation.
+- Ramon Enhance Commit 3 foundations: Recycle 2 rival momentums.
+- Role: Foundation recycle and momentum control.
 
 ### Masked Momentum
 - Type: Foundation
@@ -111,7 +111,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: Mid +3
 - Symbols: Earth
 - Tags: Gear / Lucha
-- Text: Response Commit: After your Lucha Throw attack is blocked, put 1 of your foundations on the bottom of your deck to add 1 card from your card pool to your momentum.
+- Text: Response Commit: After your Lucha Throw attack is blocked, put 1 of your foundations on the bottom of your deck to add 2 card from your card pool to your momentum.
 - Role: Self-foundation recycle.
 
 ### Lucha Timing
@@ -120,8 +120,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: High +3
 - Symbols: Earth
 - Tags: Technique / Lucha
-- Text: Enhance Destroy: Ready 1 Lucha foundation committed to pay the cost of a Throw attack ability.
-- Ramon Enhance Commit: Your Throw attack gets +3 damage.
+- Text: Enhance Destroy: Ready 1 Lucha foundation.
 - Role: Throw ability efficiency.
 
 ### Ring Barricade
@@ -130,8 +129,8 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: Mid +2
 - Symbols: Earth
 - Tags: Terrain / Lucha
-- Text: Enhance Destroy: Put 1 rival foundation on the bottom of its owner's deck if your Throw attack is in your card pool.
-- Role: Foundation recycle.
+- Text: Enhance Destroy: Recycle 1 rival foundation if your Throw attack is in your card pool.
+- Role: Foundation control through recycle.
 
 ### Fan Favorite
 - Type: Foundation
