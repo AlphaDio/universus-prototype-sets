@@ -36,7 +36,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 
 ### Weaving Body Blow
 - Type: Attack
-- Stats: 4 difficulty, 3 control, Mid, 4 speed, 4 damage
+- Stats: 4 difficulty, 3 control, Mid, 4 speed, 2 damage
 - Block: Mid +2
 - Symbols: Air
 - Tags: Punch / Boxing
@@ -45,7 +45,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 
 ### Machinegun Puncher
 - Type: Attack
-- Stats: 5 difficulty, 2 control, Mid, 4 speed, 5 damage
+- Stats: 5 difficulty, 2 control, Mid, 4 speed, 3 damage
 - Block: Mid +3
 - Symbols: Air / Good
 - Tags: Punch / Boxing
@@ -69,16 +69,16 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Symbols: Air
 - Tags: Punch / Boxing
 - Text: Enhance: If this Punch attack's speed is greater than its damage, it gets +5 damage.
-- Vanessa Enhance: If this attack's speed is 10 or greater, your rival cannot play abilities on foundations for the rest of this attack.
+- Vanessa Enhance: If this attack's speed is 10 or greater, seal 2 rival foundations.
 - Role: Main finisher.
 
 ### Counter Mirage
 - Type: Attack
-- Stats: 5 difficulty, 3 control, Mid, 5 speed, 4 damage
+- Stats: 5 difficulty, 3 control, Mid, 5 speed, 3 damage
 - Block: Mid +2
 - Symbols: Air / Good
 - Tags: Punch / Boxing
-- Text: Response: After this Boxing attack is blocked, ready 1 Agent foundation that has not been readied this Combat Phase.
+- Text: Response: After this Boxing attack is blocked, ready 1 Air Agent foundation.
 - Role: Tempo recovery.
 
 ## Foundations
@@ -89,7 +89,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: Low +3
 - Symbols: Air
 - Tags: Training / Boxing
-- Text: Enhance Commit: If your Boxing attack's speed is 6 or greater, return 1 committed rival foundation to its owner's hand.
+- Text: Enhance Commit: If your Boxing attack's speed is 6 or greater, bounce 1 committed rival foundation.
 - Vanessa Enhance Commit: Your Punch attack gets +3 speed.
 - Role: Foundation bounce.
 
@@ -99,7 +99,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: Mid +2
 - Symbols: Air
 - Tags: Tactics / Boxing
-- Text: Enhance Commit: Your rival's block modifier to your Punch attack gets +2 for each foundation returned to hand this Enhance Step, maximum +4.
+- Text: Enhance Commit: Your rival's block modifier to your Punch attack gets +2 for each foundation bounced this attack, maximum +4.
 - Role: Bounce payoff.
 
 ### Corner Pressure
@@ -108,7 +108,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: High +2
 - Symbols: Air
 - Tags: Tactics / Boxing
-- Text: Response Commit: After your rival blocks your Punch attack, return 1 ready rival foundation to its owner's hand.
+- Text: Response Commit: After your rival blocks your Punch attack, bounce 1 ready rival foundation.
 - Role: Foundation bounce.
 
 ### Corner Lock
@@ -117,16 +117,16 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: Mid +2
 - Symbols: Air
 - Tags: Tactics / Boxing
-- Text: Response Commit: After your Boxing attack gets a speed bonus, Prime 1 committed rival foundation.
-- Role: Foundation Prime.
+- Text: Response Commit: After your Boxing attack gets a speed bonus, bounce 1 committed rival foundation.
+- Role: Foundation Bounce.
 
 ### Agent's Read
 - Type: Foundation
-- Stats: 2 difficulty, 4 control
+- Stats: 3 difficulty, 4 control
 - Block: Mid +3
-- Symbols: Good
+- Symbols: Air / Good
 - Tags: Intel / Agent
-- Text: Response Commit: After your rival plays an Enhance ability on an attack with a printed Type, look at the top card of your deck. You may discard it.
+- Text: Response Commit: After your rival plays an Enhance ability on an Agent attack, look at the top card of your deck. You may discard it.
 - Role: Deck filtering.
 
 ### Clean Angle
@@ -135,7 +135,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: High +3
 - Symbols: Air
 - Tags: Technique / Boxing
-- Text: Enhance Destroy: Return 1 rival foundation to its owner's hand if your Punch attack's speed is 7 or greater.
+- Text: Enhance Destroy: Bounce 2 rival foundations if your Punch attack's speed is 7 or greater.
 - Role: Foundation bounce.
 
 ### Boxer at Home
@@ -144,9 +144,9 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: Mid +2
 - Symbols: Good
 - Tags: Memory / Boxing
-- Text: Enhance Commit: If your Boxing attack has printed damage 4 or less, Prime 1 committed rival foundation.
+- Text: Enhance Commit: If your Boxing attack has printed damage 3 or less, bounce 2 committed rival foundation.
 - Vanessa Enhance Commit: That attack gets +3 damage.
-- Role: Foundation Prime.
+- Role: Foundation Bounce.
 
 ## Assets and Actions
 
@@ -156,7 +156,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Block: High +2
 - Symbols: Air
 - Tags: Gear / Boxing
-- Text: Enhance Commit: If your Punch attack's speed is 6 or greater, your rival must discard 1 momentum to play a block against it.
+- Text: Enhance Commit, commit 2 foundations: If your Punch attack's speed is 6 or greater, your rival must discard 1 momentum to play a block against it.
 - Role: Block pressure.
 
 ### Slip the Line
@@ -166,4 +166,5 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Symbols: Air
 - Tags: Tactics / Boxing
 - Text: Response: After you block a Punch or Kick attack with this card, that attack gets -2 speed.
+- Vanessa Form Spend 2 momentum: Search your deck for a Punch attack with damage 3 or less, reveal it, and add it to your hand.
 - Role: Defensive speed control.
