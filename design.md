@@ -106,3 +106,4 @@ Stage cards are among the few cards types that can have 2 effects universally, s
 ## Design tidbits
 
 - Effects that destroy the foundation should be showed and playable *after* other effects that need the foundation present.
+- Void has access to bottom-draw, to protect from and counter put-in-bottom removals.
