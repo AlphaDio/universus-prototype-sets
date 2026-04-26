@@ -52,6 +52,8 @@ Only one Stage can be in the Stage field at a time. When a new Stage is played, 
 
 Stages should affect both players when possible, but their hooks should favor specific decks or punish specific patterns. For example, Factory supports `Tech` keyword attacks, while Aquarium checks speed-heavy decks.
 
+Stage cards are among the few cards types that can have 2 effects universally, since their state is checked by both players. One effect can be played only by the controller of the card, and the other can be played by both players.
+
 ## Balance Targets
 
 - Each character should have a clear win condition but not access to every effect category.
