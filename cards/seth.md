@@ -1,6 +1,6 @@
 # Seth - Reversal and Block Archetype
 
-Seth is an Order-centered Tactics deck that survives with strong blocks, then turns defense into Reversal attacks. He has interaction and mitigation, but he is slower to close games and has limited proactive speed boosts.
+Seth is an Order-centered Tactics deck that survives with strong blocks, then turns defense into reversal attacks. He has interaction and mitigation, but he is slower to close games and has limited proactive speed boosts.
 
 ## Combat Profile
 
@@ -18,7 +18,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Vitality: 27
 - Symbols: Order / Void
 - Tags: Agent / Tactics
-- Response: Once per turn, after you completely block an attack with a Tactics or Agent card, your next attack this turn may be played as a Reversal.
+- Response: Once per turn, after you completely block an attack with a Tactics or Agent card, your next attack this turn may be played as a reversal.
 - Enhance: If your Tactics attack is a Reversal, it gets +2 speed and +2 damage.
 
 ## Attacks
@@ -30,7 +30,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Symbols: Order
 - Tags: Strike / Tactics
 - Keywords: Reversal
-- Text: Enhance: If this Tactics attack was played as a Reversal, it gets +3 speed.
+- Text: Enhance: If this Tactics attack was played as a reversal, it gets +3 speed.
 - Role: Basic Reversal.
 
 ### Tactics Sweep
@@ -40,7 +40,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Symbols: Order
 - Tags: Kick / Tactics
 - Keywords: Reversal
-- Text: Enhance: If this Tactics Reversal deals damage, ready 2 Agent foundations.
+- Text: Enhance: If this Tactics reversal deals damage, ready 2 Agent foundations.
 - Role: Reversal tempo.
 
 ### Capture Strike
@@ -49,7 +49,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +2
 - Symbols: Order / Void
 - Tags: Strike / Tactics
-- Text: Enhance: If this Tactics attack is a Reversal, commit 1 rival Training or Tactics foundation.
+- Text: Enhance: If this Tactics attack is a reversal, commit 1 rival foundation.
 - Role: Defensive punish.
 
 ### Shoulder Check
@@ -67,9 +67,9 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +2
 - Symbols: Order
 - Tags: Strike / Tactics
-- Keywords: Reversal, Combo(Block)
-- Text: Enhance: This Tactics attack gets +4 damage.
-- Seth Enhance: If this attack was played as a Reversal, your rival cannot play abilities on foundations for the rest of this attack.
+- Keywords: Reversal
+- Text: Combo(Block) Enhance: This Tactics attack gets +4 damage.
+- Seth Enhance: If this attack was played as a reversal, seal 2 rival foundations.
 - Role: Main finisher.
 
 ### Countermand
@@ -79,7 +79,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Symbols: Order / Void
 - Tags: Strike / Tactics
 - Keywords: Reversal
-- Text: Response: After this Tactics attack is played as a Reversal, cancel 1 Enhance ability printed on your rival's attack.
+- Text: Response: After this Tactics attack is played as a reversal, seal 2 rival foundations.
 - Seth Enhance: If you completely blocked an attack this turn, this attack gets +3 damage.
 - Role: Interaction.
 
@@ -100,7 +100,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: High +1
 - Symbols: Order
 - Tags: Intel / Agent
-- Text: Enhance Commit: Return 1 of your foundations to your hand. Your Agent block gets -2 block modifier against this attack.
+- Text: Enhance Commit, return 1 of your foundations to your hand: Your Agent block gets -2 block modifier against this attack.
 - Role: Self-foundation bounce.
 
 ### Mission Discipline
@@ -119,7 +119,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +2
 - Symbols: Order
 - Tags: Technique / Tactics
-- Text: Enhance Commit: If your Tactics attack is a Reversal, return 1 committed rival foundation to its owner's hand.
+- Text: Enhance Commit: If your Tactics attack is a reversal, bounce 1 committed rival foundation.
 - Role: Foundation bounce.
 
 ### Field Agent Cover
@@ -137,7 +137,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +2
 - Symbols: Order
 - Tags: Tactics / Agent
-- Text: Response Commit: After you completely block an attack with a Tactics card, remove 1 sealed rival foundation from the game.
+- Text: Response Commit, commit 2 foundations: After you completely block an attack with a Tactics card, remove 1 rival foundation from the game.
 - Role: Foundation removal from game.
 
 ### Ling's Orders
@@ -158,7 +158,7 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +1
 - Symbols: Order
 - Tags: Gear / Tactics
-- Text: Response Commit: After you play a Tactics Reversal attack, it gets +2 speed.
+- Text: Response Commit: After you play a Tactics attack as a reversal, it gets +2 speed.
 - Role: Reversal support.
 
 ### Hard Parry
@@ -168,4 +168,5 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Symbols: Order
 - Tags: Guard / Tactics
 - Text: Response: After you block a Strike or Kick attack with this card, reduce the blocked attack's damage by 2.
+- Seth Form Commit: Draw 1 card.
 - Role: Defensive block action.
