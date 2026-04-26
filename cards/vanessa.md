@@ -18,8 +18,9 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Vitality: 24
 - Symbols: Air / Good
 - Tags: Boxing / Agent
-- Enhance: Your Punch attack gets +2 speed. If it has printed damage 4 or less, it gets an additional +1 speed.
+- Enhance: Your Punch attack gets +2 speed. If it has printed damage 3 or less, it gets an additional +1 speed.
 - Response: Once per turn, after your rival blocks your Boxing attack, draw 1 card then discard 1 card.
+- Role: Great build-around-me with 3- speed attacks.
 
 ## Attacks
 
