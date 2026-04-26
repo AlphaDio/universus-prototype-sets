@@ -29,7 +29,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: High +2
 - Symbols: Fire
 - Tags: Kick / Flame
-- Text: Enhance: If this Flame attack deals damage, add it to your momentum instead of discarding it.
+- Text: Enhance: If this Flame attack deals damage, add it to your momentum.
 - Role: Starter momentum builder.
 
 ### Crow Bite Feint
@@ -56,9 +56,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +2
 - Symbols: Fire
 - Tags: Ranged / Flame
-- Keywords: Combo(Flame)
-- Text: Enhance: Spend 1 momentum: Draw 1 card.
-- K-Dash Enhance: If the previous card in your card pool has the Flame tag, add the top card of your deck to your momentum.
+- Text: Combo(Flame) Enhance: Draw 1 card.
 - Role: Combo smoothing.
 
 ### Minute Spike
@@ -67,7 +65,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +3
 - Symbols: Fire
 - Tags: Kick / Flame
-- Text: Enhance: Spend 2 momentum: This Kick attack gets +4 damage. Only playable if this attack has not received a damage bonus this Enhance Step.
+- Text: First Enhance: Spend 2 momentum: This Kick attack gets +4 damage.
 - Role: Combo damage pump.
 
 ### Chain Drive
@@ -77,8 +75,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Symbols: Fire / Chaos
 - Tags: Punch / Flame
 - Keywords: Powerful: 2
-- Text: Enhance: If you have 5 or more momentum, this Punch attack gets Stun: 2 and +2 damage.
-- K-Dash Enhance: Spend 2 momentum. This attack gets +4 damage.
+- Text: Enhance: If you have 5 or more momentum, this Punch attack gets Stun: 2.
+- K-Dash Enhance Spend 2 momentum: This attack gets +4 damage.
 - Role: Main win condition.
 
 ### Heat Drive
@@ -87,8 +85,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: High +3
 - Symbols: Fire / Chaos / Void
 - Tags: Punch / Flame
-- Keywords: Combo(Flame)
-- Text: Enhance: Spend any number of momentum. This Flame attack gets +2 speed and +2 damage for each momentum spent this way.
+- Text: Combo(Flame) Enhance: Spend any number of momentum. This Flame attack gets +2 speed and +2 damage for each momentum spent this way.
 - Role: Rare three-symbol finisher.
 
 ## Foundations
@@ -99,8 +96,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Mid +3
 - Symbols: Fire
 - Tags: Training / Flame
-- Text: Enhance Commit: Destroy 1 of your foundations. Your Flame attack gets +3 damage.
-- K-Dash Enhance Commit: If this is a Combo(Flame) attack, it gets +2 speed.
+- Text: Enhance Commit, destroy 1 of your foundations: Your Flame attack gets +4 damage.
 - Role: Self-foundation conversion.
 
 ### Hidden Ignition
@@ -109,7 +105,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +2
 - Symbols: Fire
 - Tags: Technique / Flame
-- Text: Response Commit: After your Flame attack deals damage, destroy 1 of your foundations to add the top card of your deck to your momentum.
+- Text: Response Commit: After your Flame attack deals damage, destroy 1 of your foundations to add the top 2 card of your deck to your momentum.
 - Role: Self-foundation conversion.
 
 ### Black Glove Focus
@@ -118,17 +114,17 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: High +2
 - Symbols: Fire
 - Tags: Gear / Flame
-- Text: Enhance Destroy: Your Flame attack gets +3 speed.
-- K-Dash Enhance: If you have 4 or more momentum, this attack gets +3 damage.
+- Text: Enhance spend 2 momentum: Your Flame attack gets +3 speed.
+- K-Dash Destroy: If you have 4 or more momentum, this attack gets +5 damage.
 - Role: Speed burst.
 
 ### Fugitive Instinct
 - Type: Foundation
-- Stats: 2 difficulty, 4 control
+- Stats: 3 difficulty, 4 control
 - Block: Mid +2
 - Symbols: Chaos
 - Tags: Tactics / Momentum
-- Text: Response Commit: After your rival plays an ability from a committed foundation, remove that foundation from the game if your Momentum attack is in your card pool.
+- Text: Response Commit, flip: After your rival plays an ability from a committed foundation, remove that foundation from the game if your Momentum attack is in your card pool.
 - Role: Foundation removal from game.
 
 ### Fault Line Ignition
@@ -142,11 +138,11 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 
 ### NESTS Afterimage
 - Type: Foundation
-- Stats: 3 difficulty, 4 control
+- Stats: 2 difficulty, 5 control
 - Block: High +3
 - Symbols: Fire
 - Tags: Technique / Flame
-- Text: Response Commit: After your Combo(Flame) attack is completely blocked, destroy 1 of your foundations to add 1 card from your card pool to your momentum.
+- Text: Response Commit: After your Combo(Flame) attack is completely blocked, destroy 1 of your foundations to add 2 cards from your card pool to your momentum.
 - Role: Self-foundation conversion.
 
 ### Scorched Trail
@@ -155,25 +151,25 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +3
 - Symbols: Fire
 - Tags: Terrain / Flame
-- Text: Enhance Commit, spend 1 momentum: Destroy 1 of your foundations. Your Flame attack gets +2 speed and +3 damage.
+- Text: Enhance Commit, spend 1 momentum: Destroy 1 of your foundations. Your Flame attack gets +2 speed and +4 damage.
 - Role: Self-foundation conversion.
 
 ## Assets and Actions
 
-### Red Leather Jacket
+### K' Leather Jacket
 - Type: Asset
 - Stats: 2 difficulty, 5 control
 - Block: Mid +2
 - Symbols: Fire
 - Tags: Gear / Momentum
-- Text: Response Commit: After you spend momentum to pay a cost on a Flame card, your Flame attacks gets +2 damage this turn.
+- Text: Response Commit, Spend 2 momentum: After you spend momentum to pay a cost on a Flame card, your Flame attacks gets +2 damage this turn.
 - Role: Momentum-spend payoff.
 
 ### Tactics Disengage
 - Type: Action
-- Stats: 3 difficulty, 4 control
+- Stats: 0 difficulty, 5 control
 - Block: High +2
 - Symbols: Chaos
 - Tags: Tactics / Tech
-- Text: Response: After you block a Tech or Momentum attack with this card, add this card to your momentum.
+- Text: Response: After you block a Tactics or Tech attack with this card, add this card to your momentum.
 - Role: Defensive momentum access.
