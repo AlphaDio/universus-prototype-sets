@@ -95,7 +95,9 @@ Stages should affect both players when possible, but their hooks should favor sp
 
 Stage cards should have exactly 3 symbols. Under the house-rule symbol chaining system, they are intended to be reliable smoothers that help decks pivot between archetype cards and neutral cards.
 
-Stage cards are among the few cards types that can have 2 effects universally, since their state is checked by both players. One effect can be played only by the controller of the card, and the other can be played by both players.
+Stage cards are among the few cards types that can have 2 effects universally, since their state is checked by both players. Each Stage should have one controller-only effect and one public effect that either player can use.
+
+Stage control should matter. Neutral cards may allow a player to become the controller of the current Stage, but those cards should also carry a broadly useful effect so they are not dead when Stage control is not contested.
 
 ## Balance Targets
 

@@ -15,7 +15,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Water / Life / Good
 - Tags: Venue / Aquatic
-- Text: Enhance Commit: If a Footwork or Boxing attack has received a speed bonus this Enhance Step, it gets -1 speed.
+- Controller Enhance Commit: If a Footwork or Boxing attack has received a speed bonus this Enhance Step, it gets -2 speed.
+- Public Enhance Commit: The current attack gets -1 speed.
 - Role: Anti-speed battlefield.
 
 ### Dump Stage
@@ -23,7 +24,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Earth / Chaos / Life
 - Tags: Venue / Terra
-- Text: Response Commit: After a player destroys a Terrain or Gear foundation to pay a cost, that player adds the top card of their deck to their card pool face down.
+- Controller Response Commit: After your rival destroys a Terrain or Gear foundation to pay a cost, they add the top card of their deck to their card pool face down.
+- Public Response Commit: After a player destroys a foundation to pay a cost, that player discards 1 momentum.
 - Role: Punishes sacrifice-heavy turns.
 
 ### Egypt Stage
@@ -31,7 +33,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Fire / Earth / Chaos
 - Tags: Venue / Flame
-- Text: Enhance Commit: The current Flame, Terrain, or Aerial attack gets +2 damage. If it is the third or later attack this turn, it gets +3 damage instead.
+- Controller Enhance Commit: Your Flame, Terrain, or Aerial attack gets +2 damage. If it is the third or later attack this turn, it gets +3 damage instead.
+- Public Enhance Commit: The current attack gets +1 damage if it is the third or later attack this turn.
 - Role: Violence scaling battlefield.
 
 ### Korea Stage
@@ -39,7 +42,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Air / Good / Order
 - Tags: Venue / Aerial
-- Text: Enhance Commit: The current Footwork or Freestyle attack gets +2 speed if its controller has played 2 or more foundations this Combat Phase.
+- Controller Enhance Commit: Your Footwork or Freestyle attack gets +2 speed if you have played 2 or more foundations this Combat Phase.
+- Public Enhance Commit: The current attack gets +1 speed if its controller has played 2 or more cards this Combat Phase.
 - Role: Tempo battlefield.
 
 ### Wharf Stage
@@ -47,7 +51,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Void / Water / Fire
 - Tags: Venue / Aquatic
-- Text: Response Commit: After an Aquatic, Tech, or Agent attack deals damage, its controller may add 1 card from their card pool to momentum.
+- Controller Response Commit: After your Aquatic, Tech, or Agent attack deals damage, add 1 card from your card pool to momentum.
+- Public Response Commit: After an attack deals damage, its controller may add 1 card from their card pool to momentum if they Bury 1 foundation.
 - Role: Momentum battlefield.
 
 ### Frozen Wharf Stage
@@ -55,7 +60,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 3 difficulty, 4 control
 - Symbols: Water / Void / Order
 - Tags: Venue / Aquatic
-- Text: Enhance Commit: The current Flame, Tech, or Momentum attack gets -2 damage unless its controller spends 1 momentum.
+- Controller Enhance Commit: Your rival's Flame, Tech, or Momentum attack gets -2 damage unless they spend 1 momentum.
+- Public Enhance Commit: The current attack gets -1 damage unless its controller spends 1 momentum.
 - Role: Defensive momentum tax.
 
 ### Factory Stage
@@ -63,7 +69,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Order / Fire / Chaos
 - Tags: Venue / Flame
-- Text: Enhance Commit: If the current attack has a printed keyword and the Tech tag, it gets +2 damage.
+- Controller Enhance Commit: Your Tech attack with a printed keyword gets +2 damage.
+- Public Enhance Commit: The current attack gets +1 damage if it has a printed keyword.
 - Role: Keyword payoff battlefield.
 
 ### Frozen Factory Stage
@@ -71,7 +78,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 3 difficulty, 4 control
 - Symbols: Order / Water / Void
 - Tags: Venue / Discipline
-- Text: Response Commit: After a player readies a Tech or Tactics foundation during the Combat Phase, commit 1 foundation in that player's staging area.
+- Controller Response Commit: After your rival readies a Tech or Tactics foundation during the Combat Phase, commit 1 foundation in their staging area.
+- Public Response Commit: After a player readies a foundation during the Combat Phase, commit 1 foundation in that player's staging area.
 - Role: Anti-ready battlefield.
 
 ### Underground 00
@@ -79,7 +87,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 3 difficulty, 4 control
 - Symbols: Death / Evil / Void
 - Tags: Venue / Null
-- Text: Enhance Commit: Each player with a Violence, Momentum, or Assassin card in their card pool loses 1 vitality. If that player has 10 or less vitality, they lose 2 vitality instead.
+- Controller Enhance Commit: Your rival loses 1 vitality for each Violence, Momentum, or Assassin card in their card pool, maximum 3.
+- Public Enhance Commit: Each player with 10 or less vitality loses 1 vitality.
 - Role: Rare three-symbol boss-stage clock.
 
 ## Neutral Attacks
@@ -186,6 +195,15 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Tags: Tactics / Stage
 - Text: Form: Search your deck for a Stage card, reveal it, add it to your hand, then shuffle.
 - Role: Stage access.
+
+### Claim the Spotlight
+- Type: Action
+- Stats: 2 difficulty, 5 control
+- Block: Mid +2
+- Symbols: Good / Chaos
+- Tags: Tactics / Stage
+- Text: Enhance: If there is a Stage in play, you become its controller. Draw 1 card then discard 1 card.
+- Role: Stage control and filtering.
 
 ### Crowd Surge
 - Type: Action
