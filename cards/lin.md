@@ -67,7 +67,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Low +3
 - Symbols: Death / Evil
 - Tags: Strike / Assassin
-- Text: Enhance: If your rival has 2 or more poison counters, this Betrayal attack gets +4 damage.
+- Text: Enhance: If your rival has 2 or more poison counters, this Assassin attack gets +4 damage.
 - Lin Enhance: Remove 1 poison counter from your rival. This attack gets +3 speed.
 - Role: Midgame damage payoff.
 
@@ -78,7 +78,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Symbols: Death / Evil / Chaos
 - Tags: Ranged / Poison
 - Text: Enhance: Remove any number of poison counters from your rival. This Poison attack gets +3 damage for each counter removed this way.
-- Lin Enhance: If you removed 2 or more poison counters this Enhance Step, your rival cannot play abilities on foundations for the rest of this attack.
+- Lin Enhance: If you removed 2 or more poison counters this attack, your rival flips 2 foundations.
 - Role: Rare three-symbol finisher.
 
 ## Foundations
@@ -98,7 +98,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Low +2
 - Symbols: Death
 - Tags: Training / Assassin
-- Text: Enhance Commit: If your rival has a poison counter, remove 1 committed rival foundation from the game.
+- Text: Enhance Commit: If your rival has 4 poison counters, remove 1 committed rival foundation from the game.
 - Role: Foundation removal from game.
 
 ### Blackened Veins
@@ -107,8 +107,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: High +2
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Commit: After your rival removes a poison counter during the End Phase, destroy 1 rival foundation.
-- Lin Response Commit: After your rival loses vitality from poison counters, they lose 2 vitality.
+- Text: Response Commit, Commit 2 foundations: After your rival removes a poison counter during the End Phase, destroy 1 rival foundation.
+- Lin Response Commit, commit 1 foundation: After your rival loses vitality from poison counters, they lose 2 vitality.
 - Role: Foundation destruction.
 
 ### Hidden Antidote
@@ -117,8 +117,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +2
 - Symbols: Evil
 - Tags: Medicine / Poison
-- Text: Enhance Commit: Destroy 1 of your foundations to remove 1 poison counter from yourself.
-- Role: Self-foundation conversion.
+- Text: Enhance, destroy 1 of your foundations: Remove 1 poison counter from yourself.
+- Role: Self-foundation conversion. Anti poison counters.
 
 ### Shadow Discipline
 - Type: Foundation
@@ -135,7 +135,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Low +2
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Commit: After your rival plays their third foundation this turn, destroy 1 rival foundation.
+- Text: Response Commit: After your rival plays their third foundation this turn, if you have an Assassin card in your card pool, they destroy 1 of their foundations.
 - Role: Foundation destruction.
 
 ### Hizoku Grudge
@@ -144,8 +144,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Low +3
 - Symbols: Evil
 - Tags: Memory / Poison
-- Text: Response Commit: After your rival loses vitality from poison counters, destroy 1 rival foundation.
-- Lin Response Commit: After you destroy a rival foundation, add the top card of your deck to your momentum.
+- Text: Response Commit: After your rival loses vitality from poison counters, if you have a Poison card in your card pool, destroy 1 rival foundation.
 - Role: Foundation destruction.
 
 ## Assets and Actions
@@ -156,7 +155,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +2
 - Symbols: Death
 - Tags: Gear / Assassin
-- Text: Enhance Commit: If your rival has 2 or more poison counters, your Assassin attack gets +3 speed.
+- Text: Enhance Commit: If your rival has 2 or more poison counters, your attack gets +2 speed.
 - Role: Poison threshold speed.
 
 ### Smoke Disappearance
@@ -166,4 +165,5 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Symbols: Death
 - Tags: Tactics / Assassin
 - Text: Response: After you block with this Assassin card, give your rival 1 poison counter.
+- Lin Form, Spend 3 Momentum: give your rival 3 poison counters.
 - Role: Defensive poison access.
