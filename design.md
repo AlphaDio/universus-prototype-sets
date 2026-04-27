@@ -81,7 +81,9 @@ This set's current matchup map is documented in `matchup.md`. If a future change
 - Ramon is a `Throw`, `Lucha`, and `Freestyle` deck. He pressures blocking decisions and uses throw damage to stay relevant through defense.
 - Lin is an `Assassin` and `Poison` deck. He creates poison counters, taxes resources, and turns poison into inevitability.
 - Seth is a `Tactics`, `Agent`, `Block`, and `Reversal` deck. He blocks efficiently, then converts defense into Reversal attacks.
-- Neutral cards should not erase archetype weaknesses. They should bridge symbols, reward Stage play, or provide narrow answers tied to Tags and Keywords.
+- Neutral cards should not erase archetype weaknesses. They should bridge symbols, help other symbol packages play together, reward Stage play, or provide narrow answers tied to Tags and Keywords.
+- Neutral foundations should commonly have 2 symbols so they can serve as practical bridge cards without becoming universal auto-includes.
+- Exceptional neutral cards can have 3 symbols when their role is reliable smoothing. Stage cards are the main example because they are meant to keep the house-rule symbol chain moving.
 
 ## Stage Cards
 
@@ -90,6 +92,8 @@ Stage cards represent the unique battlefields of KOF 2000. They use a special St
 Only one Stage can be in the Stage field at a time. When a new Stage is played, discard the current Stage first, then place the new Stage in the Stage field.
 
 Stages should affect both players when possible, but their hooks should favor specific decks or punish specific patterns. For example, Factory supports `Tech` keyword attacks, while Aquarium checks speed-heavy decks.
+
+Stage cards should have exactly 3 symbols. Under the house-rule symbol chaining system, they are intended to be reliable smoothers that help decks pivot between archetype cards and neutral cards.
 
 Stage cards are among the few cards types that can have 2 effects universally, since their state is checked by both players. One effect can be played only by the controller of the card, and the other can be played by both players.
 
