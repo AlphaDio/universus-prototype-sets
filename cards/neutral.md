@@ -39,7 +39,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Symbols: Air / Good / Order
 - Tags: Venue / Aerial
-- Text: Enhance Commit: The current Footwork or Freestyle attack gets +2 speed if its controller has played 2 or more cards this Combat Phase.
+- Text: Enhance Commit: The current Footwork or Freestyle attack gets +2 speed if its controller has played 2 or more foundations this Combat Phase.
 - Role: Tempo battlefield.
 
 ### Wharf Stage
@@ -115,16 +115,16 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 
 ### Global Venue
 - Type: Foundation
-- Stats: 1 difficulty, 5 control
+- Stats: 3 difficulty, 4 control
 - Block: Mid +3
 - Symbols: Good / Order
 - Tags: Venue / Tournament
-- Text: Response Commit: After you play a Stage card, Bury 1 foundation.
+- Text: Response Commit: After you play a Stage card, bury 1 foundation.
 - Role: Foundation recycle.
 
 ### Shared Intel
 - Type: Foundation
-- Stats: 2 difficulty, 5 control
+- Stats: 2 difficulty, 4 control
 - Block: High +2
 - Symbols: Order / Good
 - Tags: Intel / Agent
@@ -151,7 +151,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 
 ### Fighter's Entrance
 - Type: Foundation
-- Stats: 2 difficulty, 5 control
+- Stats: 2 difficulty, 6 control
 - Block: High +3
 - Symbols: Life / Good
 - Tags: Crowd / Tournament
@@ -164,12 +164,12 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Mid +3
 - Symbols: Fire / Chaos
 - Tags: Tactics / Tournament
-- Text: Enhance Commit: If either player has 10 or less vitality, destroy 1 foundation. Your Violence, Flame, or Finisher attack gets +3 damage.
+- Text: Enhance Commit, spend 2 momentum: If either player has 10 or less vitality, destroy 1 foundation. Your Violence, Flame, or Finisher attack gets +3 damage.
 - Role: Foundation destruction.
 
-### Anti-Flood Ruling
+### Time Limit Ruling
 - Type: Foundation
-- Stats: 2 difficulty, 4 control
+- Stats: 2 difficulty, 6 control
 - Block: Mid +2
 - Symbols: Order / Earth
 - Tags: Tactics / Tournament
@@ -178,7 +178,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 
 ## Neutral Actions and Assets
 
-### Change the Stage
+### Stage Select
 - Type: Action
 - Stats: 2 difficulty, 5 control
 - Block: Mid +2
@@ -201,6 +201,6 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Block: Mid +2
 - Symbols: Good / Chaos
-- Tags: Document / Stage
+- Tags: Intrigue / Stage
 - Text: Response Commit: After a Stage card is discarded from the Stage field, add the top card of your deck to your momentum.
 - Role: Stage replacement payoff.
