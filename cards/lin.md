@@ -113,11 +113,11 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 
 ### Hidden Antidote
 - Type: Foundation
-- Stats: 2 difficulty, 5 control
+- Stats: 0 difficulty, 6 control
 - Block: Mid +2
 - Symbols: Evil
 - Tags: Medicine / Poison
-- Text: Enhance, destroy 1 of your foundations: Remove 1 poison counter from yourself.
+- Text: Enhance, destroy 1 of your foundations: Remove 2 poison counters from yourself and your rival.
 - Role: Self-foundation conversion. Anti poison counters.
 
 ### Shadow Discipline
@@ -126,7 +126,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: High +3
 - Symbols: Death
 - Tags: Training / Assassin
-- Text: Enhance Destroy: Remove 1 rival foundation from the game if they have a poison counter and your block has the Assassin tag.
+- Text: Enhance Destroy: Remove 1 rival foundation if they have 3 or more poison counters.
 - Role: Foundation removal from game.
 
 ### Venom in the Floorboards
