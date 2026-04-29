@@ -76,7 +76,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Symbols: Fire / Chaos
 - Tags: Punch / Flame
 - Keywords: Powerful: 2
-- Text: Enhance: If you have 5 or more momentum, this Punch attack gets Stun: 2.
+- Text: Enhance: If you have 5 or more momentum, if this Punch attack deals damage, destroy 3 rival foundations.
 - K-Dash Enhance Spend 2 momentum: This attack gets +4 damage.
 - Role: Main win condition.
 
