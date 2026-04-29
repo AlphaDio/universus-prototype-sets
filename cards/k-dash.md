@@ -56,7 +56,8 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +2
 - Symbols: Fire
 - Tags: Ranged / Flame
-- Text: Combo(Flame) Enhance: If this Flame attack deals damage, draw 1 card.
+- Keywords: Combo(Flame)
+- Text: Combo Enhance: If this Flame attack deals damage, draw 1 card.
 - Role: Combo smoothing.
 
 ### Minute Spike
