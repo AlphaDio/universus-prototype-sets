@@ -126,6 +126,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Tags: Tactics / Momentum
 - Text: Response Commit, flip: After your rival plays an ability from a committed foundation, remove that foundation from the game if your Kick and Flame attack is in your card pool.
 - Role: Foundation removal from game.
+- Design: This should be a momentum-powered defensive foundation.
 
 ### Fault Line Ignition
 - Type: Foundation
