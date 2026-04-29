@@ -124,7 +124,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Mid +2
 - Symbols: Chaos
 - Tags: Tactics / Momentum
-- Text: Response Commit, flip: After your rival plays an ability from a committed foundation, remove that foundation from the game if your Momentum attack is in your card pool.
+- Text: Response Commit, flip: After your rival plays an ability from a committed foundation, remove that foundation from the game if your Kick and Flame attack is in your card pool.
 - Role: Foundation removal from game.
 
 ### Fault Line Ignition
@@ -151,7 +151,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: Low +3
 - Symbols: Fire
 - Tags: Terrain / Flame
-- Text: Enhance Commit, spend 1 momentum: Destroy 1 of your foundations. Your Flame attack gets +2 speed and +4 damage.
+- Text: Enhance Commit, spend 1 momentum, destroy 1 of your foundations: Your Flame attack gets +2 speed and +4 damage.
 - Role: Self-foundation conversion.
 
 ## Assets and Actions
