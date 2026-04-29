@@ -129,7 +129,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 
 ### Fault Line Ignition
 - Type: Foundation
-- Stats: 2 difficulty, 4 control
+- Stats: 3 difficulty, 4 control
 - Block: Low +2
 - Symbols: Fire
 - Tags: Technique / Flame
