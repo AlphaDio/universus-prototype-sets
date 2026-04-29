@@ -117,3 +117,4 @@ Stage control should matter. Neutral cards may allow a player to become the cont
 - Attacks with strong effects should tend to have Mid zone.
 - Attacks with Low zone should tend toward "If this attack deals damage..." effects
 - Attacks with High zone should tend toward High damage and Keywords.
+- Actions should have good block profiles.
