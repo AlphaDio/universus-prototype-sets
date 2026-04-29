@@ -114,3 +114,6 @@ Stage control should matter. Neutral cards may allow a player to become the cont
 - Effects that destroy the foundation should be showed and playable *after* other effects that need the foundation present.
 - Void has access to bottom-draw, to protect from and counter put-in-bottom removals.
 - Tags allow for viable blank/vanilla through effects that look for them and/or enhance them. They become a shell that can house powerful effects while being simple and available.
+- Attacks with strong effects should tend to have Mid zone.
+- Attacks with Low zone should tend toward "If this attack deals damage..." effects
+- Attacks with High zone should tend toward High damage and Keywords.
