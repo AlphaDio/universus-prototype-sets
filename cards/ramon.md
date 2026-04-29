@@ -140,6 +140,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Tags: Terrain / Lucha
 - Text: Enhance Destroy: Your rival buries 1 of their foundation if your Throw attack is in your card pool.
 - Role: Foundation control through recycle.
+- Design: This should be a defensive foundation.
 
 ### Fan Favorite
 - Type: Foundation
