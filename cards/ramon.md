@@ -58,8 +58,9 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Block: High +2
 - Symbols: Earth / Life
 - Tags: Strike / Lucha
+- Keywords: Combo(Throw)
 - Text: Enhance: This Aerial attack gets +4 damage.
-- Combo(Throw) E Spend 1 momentum: your rival buries 1 foundation.
+- Combo Enhance Spend 1 momentum: your rival buries 1 foundation.
 - Role: Non-throw payoff.
 
 ### Flying Body Press
