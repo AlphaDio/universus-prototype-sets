@@ -67,8 +67,8 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Block: Mid +2
 - Symbols: Order
 - Tags: Strike / Tactics
-- Keywords: Reversal
-- Text: Combo(Block) Enhance: This Tactics attack gets +4 damage.
+- Keywords: Reversal, Combo(Block)
+- Text: Combo Enhance: This Tactics attack gets +4 damage.
 - Seth Enhance: If this attack was played as a reversal, seal 2 rival foundations.
 - Role: Main finisher.
 
