@@ -153,6 +153,15 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Ramon Response Commit: After your Throw attack deals damage, gain 3 vitality.
 - Role: Foundation recycle.
 
+### Rope Counter
+- Type: Foundation
+- Stats: 1 difficulty, 5 control
+- Block: High +2
+- Symbols: Earth / Life
+- Tags: Technique / Lucha
+- Ramon Enhance Destroy, spend 1 momentum: Search your deck for 1 Lucha Throw attack, reveal it, add it to your hand, then shuffle.
+- Role: Throw access.
+
 ## Assets and Actions
 
 ### Yellow Mask

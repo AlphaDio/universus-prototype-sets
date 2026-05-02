@@ -145,8 +145,17 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Symbols: Good
 - Tags: Memory / Boxing
 - Text: Enhance Flip: If your Boxing attack has printed damage 3 or less, bounce 2 committed rival foundation.
-- Vanessa Enhance Commit: That attack gets +3 damage.
+- Vanessa Enhance Commit: This attack gets +3 damage.
 - Role: Foundation Bounce.
+
+### Vanessa's Slip
+- Type: Foundation
+- Stats: 1 difficulty, 5 control
+- Block: Mid +2
+- Symbols: Air / Good
+- Tags: Tactics / Boxing
+- Text: Vanessa Response Flip: After your rival plays an attack (not as a block), search your deck for 1 Punch attack card, reveal it, and it to your hand, then shuffle.
+- Role: Punch access and soft defense.
 
 ## Assets and Actions
 

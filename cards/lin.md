@@ -89,12 +89,12 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +3
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Commit: After your Poison attack deals damage, destroy 1 rival foundation if your rival has a poison counter.
-- Role: Foundation destruction.
+- Text: Enhance: Remove 1 poison counter from your rival: Your Poison attack gets +3 damage.
+- Role: Poison Damage pump.
 
 ### Assassin's Patience
 - Type: Foundation
-- Stats: 2 difficulty, 5 control
+- Stats: 2 difficulty, 4 control
 - Block: Low +2
 - Symbols: Death
 - Tags: Training / Assassin
@@ -107,8 +107,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: High +2
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Commit, Commit 2 foundations: After your rival removes a poison counter during the End Phase, destroy 1 rival foundation.
-- Lin Response Commit, commit 1 foundation: After your rival loses vitality from poison counters, they lose 2 vitality.
+- Text: Response: Commit, Commit 2 foundations: After your rival removes a poison counter during the End Phase, destroy 1 rival foundation.
+- Lin Response: Commit, commit 1 foundation: After your rival loses vitality from poison counters, they lose 2 vitality.
 - Role: Foundation destruction.
 
 ### Hidden Antidote
@@ -117,7 +117,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +2
 - Symbols: Evil
 - Tags: Medicine / Poison
-- Text: Enhance, destroy 1 of your foundations: Remove 2 poison counters from yourself and your rival.
+- Text: Enhance: Destroy 1 of your foundations: Remove 2 poison counters from yourself and your rival.
 - Role: Self-foundation conversion. Anti poison counters.
 
 ### Shadow Discipline
@@ -126,16 +126,16 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: High +3
 - Symbols: Death
 - Tags: Training / Assassin
-- Text: Enhance Destroy: Remove 1 rival foundation if they have 3 or more poison counters.
+- Text: Enhance: Destroy: Remove 1 rival foundation if they have 3 or more poison counters.
 - Role: Foundation removal from game.
 
 ### Venom in the Floorboards
 - Type: Foundation
-- Stats: 2 difficulty, 4 control
+- Stats: 1 difficulty, 6 control
 - Block: Low +2
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Commit: After your rival plays their third foundation this turn, if you have an Assassin card in your card pool, they destroy 1 of their foundations.
+- Text: Response Flip: After your rival plays their third foundation this turn, if you have an Assassin card in your card pool, they destroy 1 of their foundations.
 - Role: Foundation destruction.
 
 ### Hizoku Grudge
@@ -144,7 +144,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Low +3
 - Symbols: Evil
 - Tags: Memory / Poison
-- Text: Response Commit: After your rival loses vitality from poison counters, if you have a Poison card in your card pool, destroy 1 rival foundation.
+- Text: Response Flip: After your rival loses vitality from poison counters, if you have a Poison card in your card pool, destroy 1 rival foundation.
 - Role: Foundation destruction.
 
 ## Assets and Actions

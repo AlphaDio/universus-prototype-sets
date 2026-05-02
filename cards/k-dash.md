@@ -1,6 +1,6 @@
 # K-Dash - Combo(Flame) Momentum Archetype
 
-K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame card is already in the card pool, letting him build momentum and convert it into finishers. He has pressure and anti-reduction protection, but weak draw and limited defensive control.
+K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame card is already in the card pool, letting him build momentum and convert it into finishers. He has pressure and anti-reduction protection, plus a hard-stop foundation, but weak draw.
 
 ## Combat Profile
 
@@ -126,8 +126,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Symbols: Chaos
 - Tags: Tactics / Momentum
 - Text: Enhance Remove, spend 2 momentum: Change this attack's damage to its printed damage.
-- Role: Foundation removal from game.
-- Design: This should be a momentum-powered defensive foundation.
+- Role: Momentum-powered defensive foundation.
 
 ### Fault Line Ignition
 - Type: Foundation
@@ -144,7 +143,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Block: High +3
 - Symbols: Fire
 - Tags: Technique / Flame
-- Text: Response Commit: After your Combo(Flame) attack is completely blocked, destroy 1 of your foundations to add 2 cards from your card pool to your momentum.
+- Text: Response Commit: After your Combo(Flame) attack is blocked, destroy 1 of your foundations to add 2 cards from your card pool to your momentum.
 - Role: Self-foundation conversion.
 
 ### Scorched Trail

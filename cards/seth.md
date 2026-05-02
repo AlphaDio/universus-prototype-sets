@@ -150,6 +150,15 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Seth Response Commit: After you play a Reversal attack, draw 1 card.
 - Role: Foundation Prime.
 
+### Counterintelligence
+- Type: Foundation
+- Stats: 0 difficulty, 6 control
+- Block: Mid +1
+- Symbols: Order / Void
+- Tags: Guard / Agent
+- Text: Seth Response Destroy, flip 2 foundations: After your rival plays an attack (not as a block), cancel its effects and clear 1 attack from their card pool.
+- Role: Hard stop.
+
 ## Assets and Actions
 
 ### Tactics Earpiece

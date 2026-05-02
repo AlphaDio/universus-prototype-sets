@@ -104,10 +104,11 @@ Stage control should matter. Neutral cards may allow a player to become the cont
 - Each character should have a clear win condition but not access to every effect category.
 - Each archetype should have at least one form of protection or interaction, but not universal answers.
 - Each archetype should include multiple proactive answers to foundation flood, including at least one effect that actually removes a foundation from the staging area.
+- Each archetype should have at least one hard defensive option, usually a foundation or attack that cancels or clears a rival attack.
+- Each archetype should have a way to access both attacks and foundations, either through a split card, search, draw, shift, or a tag-linked card that finds one of each.
 - Draw and ready effects should be narrow and tagged because they are high-leverage in Universus.
-- Damage reduction should specify what kind of attack it answers.
 - Damage and speed buffs should specify what kind of attack they support.
-- Three-symbol cards should be strong but narrow enough that they do not become generic staples.
+- Three-symbol cards should be narrow enough so that they do not become generic staples.
 
 ## Design tidbits
 
@@ -118,3 +119,4 @@ Stage control should matter. Neutral cards may allow a player to become the cont
 - Attacks with Low zone should tend toward "If this attack deals damage..." effects
 - Attacks with High zone should tend toward High damage and Keywords.
 - Actions should have good block profiles.
+- Archetypes should have reasonable access to Foundations, and especially to Attacks. Attacks being integral to gameplay, everything should facilitate having one, either through searches, draws, split cards, filtering, and so on.
