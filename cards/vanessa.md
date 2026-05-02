@@ -31,7 +31,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Symbols: Air
 - Tags: Punch / Boxing
 - Text: Enhance: If this Punch attack's speed is 7 or greater, it gets +3 damage.
-- Vanessa Enhance: If this attack's speed is 9 or greater, draw 1 card then discard 1 card.
+- Vanessa Enhance: If this attack's speed is 9 or greater, draw 1 card.
 - Role: Speed threshold payoff.
 
 ### Weaving Body Blow
@@ -69,7 +69,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 - Symbols: Air
 - Tags: Punch / Boxing
 - Text: Enhance: If this Punch attack's speed is greater than its damage, it gets +5 damage.
-- Vanessa Enhance: If this attack's speed is 10 or greater, seal 2 rival foundations.
+- Vanessa Enhance: If this attack's speed is 8 or greater, seal 2 rival foundations.
 - Role: Main finisher.
 
 ### Counter Mirage
