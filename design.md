@@ -124,8 +124,15 @@ Location control should matter. Neutral cards may allow a player to become the c
 - Each archetype/character should have search effects and stops effects available, the first one ensuring access to foundations and attacks when needed in order to interact, and the second one making in order to prevent FTKs/OTKs.
 
 ### Foundations tidbits
+
 - 3-cost foundations should have effects that are turn-warping and hard stops. Expects that can be used right after building, have few downside, and allow the player to survive the coming turn.
 - 2-cost foundations are the default and thus should house build-around effects, and pay-for effects.
 - 1-cost foundations are efficiency machines and thus pay for it through costs and extensive conditions to fulfill.
 - 0-cost foundations are outliers and mist have severe drawbacks, like no blocks, or rival or matchup dependent effects.
 - No Uniques on Foundations, reserve it for Assets, Foundations can have "X Only" abilities instead.
+- if the concept of a character and its archetype can't be grasped by looking at its foundations, the foundations are failed.
+
+### Throws tidbits
+
+- 2 speed is the norm for Throws.
+- Powerful throws with powerful effects can have 1 speed
