@@ -89,8 +89,8 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +3
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Enhance: Remove 1 poison counter from your rival: Your Poison attack gets +3 damage.
-- Role: Poison Damage pump.
+- Text: Enhance Commit: Your Assassin or Poison attack gives your rival 1 poison counter.
+- Role: Easy poison application.
 
 ### Assassin's Patience
 - Type: Foundation

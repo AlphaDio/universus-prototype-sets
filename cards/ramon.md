@@ -180,5 +180,5 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 - Symbols: Life
 - Tags: Tactics / Recovery
 - Text: Response: After you block a Throw or Aerial attack with this card, reduce the blocked attack's damage by 2.
-- Ramon Form, Commit, spend 1 momentum: gain 3 vitality.
+- Ramon Form, spend 1 momentum: gain 3 vitality.
 - Role: Defensive action.

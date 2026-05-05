@@ -1,17 +1,17 @@
-# Neutral and Stage Cards
+# Neutral and Location Cards
 
 These cards are non-affiliated. They are intended to fill the remaining 25% of decks, smooth the house-rule symbol chain, and provide the set's battlefield identity.
 
-## Set Rule: Stage Field
+## Set Rule: Location Field
 
-Stage is a special card type. When a Stage is played, place it in the Stage field. If another Stage is already in the Stage field, discard the current Stage first. Only one Stage can be in the Stage field at a time.
+Location is a special card type. When a Location is played, place it in the Location field. If another Location is already in the Location field, discard the current Location first. Only one Location can be in the Location field at a time.
 
-Under the house-rule symbol system, a Stage can be played if it shares any symbol with the last played card. The printed primary symbol does not matter.
+Under the house-rule symbol system, a Location can be played if it shares any symbol with the last played card. The printed primary symbol does not matter.
 
-## Stages
+## Locations
 
 ### Aquarium Stage
-- Type: Stage
+- Type: Location
 - Stats: 2 difficulty, 5 control
 - Symbols: Water / Life / Good
 - Tags: Venue / Aquatic
@@ -20,7 +20,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Anti-speed battlefield.
 
 ### Dump Stage
-- Type: Stage
+- Type: Location
 - Stats: 2 difficulty, 5 control
 - Symbols: Earth / Chaos / Life
 - Tags: Venue / Terra
@@ -29,7 +29,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Punishes sacrifice-heavy turns.
 
 ### Egypt Stage
-- Type: Stage
+- Type: Location
 - Stats: 2 difficulty, 5 control
 - Symbols: Fire / Earth / Chaos
 - Tags: Venue / Flame
@@ -38,7 +38,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Violence scaling battlefield.
 
 ### Korea Stage
-- Type: Stage
+- Type: Location
 - Stats: 2 difficulty, 5 control
 - Symbols: Air / Good / Order
 - Tags: Venue / Aerial
@@ -47,7 +47,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Tempo battlefield.
 
 ### Wharf Stage
-- Type: Stage
+- Type: Location
 - Stats: 2 difficulty, 5 control
 - Symbols: Void / Water / Fire
 - Tags: Venue / Aquatic
@@ -56,7 +56,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Momentum battlefield.
 
 ### Frozen Wharf Stage
-- Type: Stage
+- Type: Location
 - Stats: 3 difficulty, 4 control
 - Symbols: Water / Void / Order
 - Tags: Venue / Aquatic
@@ -65,7 +65,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Defensive momentum tax.
 
 ### Factory Stage
-- Type: Stage
+- Type: Location
 - Stats: 2 difficulty, 5 control
 - Symbols: Order / Fire / Chaos
 - Tags: Venue / Flame
@@ -74,7 +74,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Keyword payoff battlefield.
 
 ### Frozen Factory Stage
-- Type: Stage
+- Type: Location
 - Stats: 3 difficulty, 4 control
 - Symbols: Order / Water / Void
 - Tags: Venue / Discipline
@@ -83,13 +83,13 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Role: Anti-ready battlefield.
 
 ### Underground 00
-- Type: Stage
+- Type: Location
 - Stats: 3 difficulty, 4 control
 - Symbols: Death / Evil / Void
 - Tags: Venue / Null
 - Controller Enhance Commit: Your rival loses 1 vitality for each Violence, Momentum, or Assassin card in their card pool, maximum 3.
 - Public Enhance Commit: Each player with 10 or less vitality loses 1 vitality.
-- Role: Rare three-symbol boss-stage clock.
+- Role: Rare three-symbol boss-location clock.
 
 ## Neutral Attacks
 
@@ -99,7 +99,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Mid +2
 - Symbols: Air / Fire
 - Tags: Assist / Freestyle
-- Text: Enhance: If there is a Stage in play, this Striker attack gets +2 speed.
+- Text: Enhance: If there is a Location in play, this Striker attack gets +2 speed.
 - Role: Shared tempo attack.
 
 ### Active Assist
@@ -117,8 +117,8 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Low +3
 - Symbols: Chaos / Evil
 - Tags: Strike / Violence
-- Text: Enhance: If this Violence attack was played immediately after a Stage, it gets +4 damage.
-- Role: Stage sequencing payoff.
+- Text: Enhance: If this Violence attack was played immediately after a Location, it gets +4 damage.
+- Role: Location sequencing payoff.
 
 ## Neutral Foundations
 
@@ -128,7 +128,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Block: Mid +3
 - Symbols: Good / Order
 - Tags: Venue / Tournament
-- Text: Response Commit: After you play a Stage card, bury 1 foundation.
+- Text: Response Commit: After you play a Location card, bury 1 foundation.
 - Role: Foundation recycle.
 
 ### Shared Intel
@@ -154,7 +154,7 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 4 control
 - Block: Mid +2
 - Symbols: Earth / Fire
-- Tags: Terrain / Stage
+- Tags: Terrain / Location
 - Text: Enhance Destroy: Destroy 1 foundation if the current attack is Throw, Aerial, or Violence.
 - Role: Foundation destruction.
 
@@ -192,33 +192,33 @@ Under the house-rule symbol system, a Stage can be played if it shares any symbo
 - Stats: 2 difficulty, 5 control
 - Block: Mid +2
 - Symbols: Air / Order
-- Tags: Tactics / Stage
-- Text: Form: Search your deck for a Stage card, reveal it, add it to your hand, then shuffle.
-- Role: Stage access.
+- Tags: Tactics / Location
+- Text: Form: Search your deck for a Location card, reveal it, add it to your hand, then shuffle.
+- Role: Location access.
 
 ### Claim the Spotlight
 - Type: Action
 - Stats: 2 difficulty, 5 control
 - Block: Mid +2
 - Symbols: Good / Chaos
-- Tags: Tactics / Stage
-- Text: Enhance: If there is a Stage in play, you become its controller. Draw 1 card then discard 1 card.
-- Role: Stage control and filtering.
+- Tags: Tactics / Location
+- Text: Enhance: If there is a Location in play, you become its controller. Draw 1 card then discard 1 card.
+- Role: Location control and filtering.
 
 ### Crowd Surge
 - Type: Action
 - Stats: 3 difficulty, 4 control
 - Block: High +2
 - Symbols: Life
-- Tags: Crowd / Stage
-- Text: Enhance: If there is a Stage in play, the current Celebrity, Freestyle, or Lucha attack gets +2 speed or -2 speed.
-- Role: Flexible Stage interaction.
+- Tags: Crowd / Location
+- Text: Enhance: If there is a Location in play, the current Celebrity, Freestyle, or Lucha attack gets +2 speed or -2 speed.
+- Role: Flexible Location interaction.
 
 ### World Tournament Invite
 - Type: Asset
 - Stats: 2 difficulty, 5 control
 - Block: Mid +2
 - Symbols: Good / Chaos
-- Tags: Intrigue / Stage
-- Text: Response Commit: After a Stage card is discarded from the Stage field, add the top card of your deck to your momentum.
-- Role: Stage replacement payoff.
+- Tags: Intrigue / Location
+- Text: Response Commit: After a Location card is discarded from the Location field, add the top card of your deck to your momentum.
+- Role: Location replacement payoff.

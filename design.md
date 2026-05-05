@@ -1,6 +1,6 @@
 # Design Principles
 
-This set treats each character as a Yu-Gi-Oh-style archetype inside Universus. A character package should provide about 75% of a viable deck: a primary engine, a win condition, some protection, and a few interaction points. The remaining 25% should come from neutral cards, Stage cards, or cross-archetype symbol overlap.
+This set treats each character as a Yu-Gi-Oh-style archetype inside Universus. A character package should provide about 75% of a viable deck: a primary engine, a win condition, some protection, and a few interaction points. The remaining 25% should come from neutral cards, Location cards, or cross-archetype symbol overlap.
 
 ## Core Rules
 
@@ -9,8 +9,8 @@ This set treats each character as a Yu-Gi-Oh-style archetype inside Universus. A
 - Foundations should have 1 effect only.
 - A Foundation may have a second effect only if that second effect is character-restricted.
 - A Foundation should have one tactical role: foundation control, speed buff, damage reduction, draw, filtering, momentum gain, block quality, or protection. Do not mix roles on one Foundation.
-- Effects should not be plain numerical buffs. Every effect should care about a tag, keyword, Stage, character, or archetype condition.
-- Buffs like `+1 damage`, `+1 speed`, draw, readying, and damage reduction should create deck-building incentives by naming a hook such as `Punch`, `Throw`, `Flame`, `Assassin`, `Tactics`, `Stage`, or `Lucha`.
+- Effects should not be plain numerical buffs. Every effect should care about a tag, keyword, Location, character, or archetype condition.
+- Buffs like `+1 damage`, `+1 speed`, draw, readying, and damage reduction should create deck-building incentives by naming a hook such as `Punch`, `Throw`, `Flame`, `Assassin`, `Tactics`, `Location`, or `Lucha`.
 - If a buff is narrowly scoped to a tag, keyword, or type, it should usually be above-rate compared to a generic effect.
 - Foundation-control effects should usually be open effects. Character restrictions should mostly live on powerful buffs, signature engines, or defining finishers.
 - When a Foundation has both open foundation control and a character-restricted effect, the character line should sharpen identity without making the control text inaccessible to the archetype shell.
@@ -67,7 +67,7 @@ This set's current matchup map is documented in `matchup.md`. If a future change
 
 ## Type, Tag, Keyword Model
 
-- `Type` is the main card type: Character, Attack, Foundation, Asset, Action, or Stage.
+- `Type` is the main card type: Character, Attack, Foundation, Asset, Action, or Location.
 - `Tags` hold the card's mechanical identity and flavor identity together. Use at most 2 tags per card.
 - `Keywords` is a separate field for printed keyword text such as `Combo(Flame)`, `Reversal`, `Throw`, `Multiple: 1`, or `Powerful: 2`.
 - Tags and Keywords exist to make archetypes readable and to keep simple effects flavorful. A card that says `Your Punch attack gets +1 speed` is preferable to `Your attack gets +1 speed`.
@@ -81,23 +81,23 @@ This set's current matchup map is documented in `matchup.md`. If a future change
 - Ramon is a `Throw`, `Lucha`, and `Freestyle` deck. He pressures blocking decisions and uses throw damage to stay relevant through defense.
 - Lin is an `Assassin` and `Poison` deck. He creates poison counters, taxes resources, and turns poison into inevitability.
 - Seth is a `Tactics`, `Agent`, `Block`, and `Reversal` deck. He blocks efficiently, then converts defense into Reversal attacks.
-- Neutral cards should not erase archetype weaknesses. They should bridge symbols, help other symbol packages play together, reward Stage play, or provide narrow answers tied to Tags and Keywords.
+- Neutral cards should not erase archetype weaknesses. They should bridge symbols, help other symbol packages play together, reward Location play, or provide narrow answers tied to Tags and Keywords.
 - Neutral foundations should commonly have 2 symbols so they can serve as practical bridge cards without becoming universal auto-includes.
-- Exceptional neutral cards can have 3 symbols when their role is reliable smoothing. Stage cards are the main example because they are meant to keep the house-rule symbol chain moving.
+- Exceptional neutral cards can have 3 symbols when their role is reliable smoothing. Location cards are the main example because they are meant to keep the house-rule symbol chain moving.
 
-## Stage Cards
+## Location Cards
 
-Stage cards represent the unique battlefields of KOF 2000. They use a special Stage field.
+Location cards represent the unique battlefields of KOF 2000. They use a special Location field.
 
-Only one Stage can be in the Stage field at a time. When a new Stage is played, discard the current Stage first, then place the new Stage in the Stage field.
+Only one Location can be in the Location field at a time. When a new Location is played, discard the current Location first, then place the new Location in the Location field.
 
 Stages should affect both players when possible, but their hooks should favor specific decks or punish specific patterns. For example, Factory supports `Tech` keyword attacks, while Aquarium checks speed-heavy decks.
 
-Stage cards should have exactly 3 symbols. Under the house-rule symbol chaining system, they are intended to be reliable smoothers that help decks pivot between archetype cards and neutral cards.
+Location cards should have exactly 3 symbols. Under the house-rule symbol chaining system, they are intended to be reliable smoothers that help decks pivot between archetype cards and neutral cards.
 
-Stage cards are among the few cards types that can have 2 effects universally, since their state is checked by both players. Each Stage should have one controller-only effect and one public effect that either player can use.
+Location cards are among the few cards types that can have 2 effects universally, since their state is checked by both players. Each Location should have one controller-only effect and one public effect that either player can use.
 
-Stage control should matter. Neutral cards may allow a player to become the controller of the current Stage, but those cards should also carry a broadly useful effect so they are not dead when Stage control is not contested.
+Location control should matter. Neutral cards may allow a player to become the controller of the current Location, but those cards should also carry a broadly useful effect so they are not dead when Location control is not contested.
 
 ## Balance Targets
 
@@ -119,4 +119,5 @@ Stage control should matter. Neutral cards may allow a player to become the cont
 - Attacks with Low zone should tend toward "If this attack deals damage..." effects
 - Attacks with High zone should tend toward High damage and Keywords.
 - Actions should have good block profiles.
-- Archetypes should have reasonable access to Foundations, and especially to Attacks. Attacks being integral to gameplay, everything should facilitate having one, either through searches, draws, split cards, filtering, and so on.
+- Archetypes should have reasonable access to cards, and especially to Attacks. Attacks being integral to gameplay, everything should facilitate having one, either through searches, draws, split cards, filtering, and so on.
+- Each archetype/character should have search effects and stops effects available, the first one ensuring access to foundations and attacks when needed in order to interact, and the second one making in order to prevent FTKs/OTKs.
