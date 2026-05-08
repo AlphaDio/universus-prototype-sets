@@ -94,7 +94,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 
 ### Assassin's Patience
 - Type: Foundation
-- Stats: 2 difficulty, 4 control
+- Stats: 2 difficulty, 5 control
 - Block: Low +2
 - Symbols: Death
 - Tags: Training / Assassin
@@ -107,13 +107,13 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: High +2
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response: Commit, Commit 2 foundations: After your rival removes a poison counter during the End Phase, destroy 1 rival foundation.
+- Text: Response: Commit, Commit 2 foundations: After your rival removes one or more poison counter during the End Phase, destroy 1 rival foundation.
 - Lin Response: Commit, commit 1 foundation: After your rival loses vitality from poison counters, they lose 2 vitality.
 - Role: Foundation destruction.
 
 ### Hidden Antidote
 - Type: Foundation
-- Stats: 0 difficulty, 6 control
+- Stats: 1 difficulty, 6 control
 - Block: Mid +2
 - Symbols: Evil
 - Tags: Medicine / Poison
@@ -131,16 +131,16 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 
 ### Venom in the Floorboards
 - Type: Foundation
-- Stats: 1 difficulty, 6 control
+- Stats: 0 difficulty, 5 control
 - Block: Low +2
 - Symbols: Death
 - Tags: Technique / Poison
-- Text: Response Flip: After your rival plays their third foundation this turn, if you have an Assassin card in your card pool, they destroy 1 of their foundations.
+- Text: Response Flip 1 other foundation: After your rival plays their third foundation this turn, if you have an Assassin card in your card pool, they destroy 1 of their foundations.
 - Role: Foundation destruction.
 
 ### Hizoku Grudge
 - Type: Foundation
-- Stats: 3 difficulty, 4 control
+- Stats: 2 difficulty, 4 control
 - Block: Low +3
 - Symbols: Evil
 - Tags: Memory / Poison
@@ -155,7 +155,7 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Block: Mid +2
 - Symbols: Death
 - Tags: Gear / Assassin
-- Text: Enhance Commit: If your rival has 2 or more poison counters, your attack gets +2 speed.
+- Text: Enhance: If your rival has 2 or more poison counters, your attack gets +2 speed.
 - Role: Poison threshold speed.
 
 ### Smoke Disappearance
@@ -165,5 +165,5 @@ Poison counters: During the End Phase, each player loses 1 vitality for each poi
 - Symbols: Death
 - Tags: Tactics / Assassin
 - Text: Response: After you block with this Assassin card, give your rival 1 poison counter.
-- Lin Form, Spend 3 Momentum: give your rival 3 poison counters.
+- Lin Form, Spend 2 Momentum: give your rival 3 poison counters.
 - Role: Defensive poison access.
