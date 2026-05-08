@@ -85,7 +85,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 
 ### Footwork Drill
 - Type: Foundation
-- Stats: 1 difficulty, 5 control
+- Stats: 2 difficulty, 5 control
 - Block: Low +3
 - Symbols: Air
 - Tags: Training / Boxing
@@ -113,7 +113,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 
 ### Corner Lock
 - Type: Foundation
-- Stats: 2 difficulty, 4 control
+- Stats: 2 difficulty, 5 control
 - Block: Mid +2
 - Symbols: Air
 - Tags: Tactics / Boxing
@@ -122,7 +122,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 
 ### Agent's Read
 - Type: Foundation
-- Stats: 3 difficulty, 4 control
+- Stats: 1 difficulty, 4 control
 - Block: Mid +3
 - Symbols: Air / Good
 - Tags: Intel / Agent
@@ -140,7 +140,7 @@ Vanessa is an Air-centered Punch deck that wins by making modest attacks difficu
 
 ### Boxer at Home
 - Type: Foundation
-- Stats: 3 difficulty, 4 control
+- Stats: 2 difficulty, 4 control
 - Block: Mid +2
 - Symbols: Good
 - Tags: Memory / Boxing
