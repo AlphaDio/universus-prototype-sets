@@ -134,6 +134,10 @@ Cost of foundations are based purely on play patters.
 - if the concept of a character and its archetype can't be grasped by looking at its foundations, the foundations are failed.
 - Control is a complexity AND balancing weight. Complex effects should tend toward 4, very simple effects can tend toward 6.
 
+#### Foundation examples
+- 1/6 should house generic simple effects (+1 damage) that can be activated multiple times per turn.
+- 3/4 can house difficult to execute and turn-defining effects such as "Destroy all Foundations".
+
 ### Throws tidbits
 
 - 2 speed is the norm for Throws.
