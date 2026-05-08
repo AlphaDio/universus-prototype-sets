@@ -93,7 +93,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 
 ### Controlled Burn
 - Type: Foundation
-- Stats: 1 difficulty, 5 control
+- Stats: 2 difficulty, 5 control
 - Block: Mid +3
 - Symbols: Fire
 - Tags: Training / Flame
@@ -130,7 +130,7 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 
 ### Fault Line Ignition
 - Type: Foundation
-- Stats: 3 difficulty, 4 control
+- Stats: 2 difficulty, 4 control
 - Block: Low +2
 - Symbols: Fire
 - Tags: Technique / Flame
@@ -173,4 +173,5 @@ K-Dash is a Fire-centered Combo deck. His attacks are at their best when a Flame
 - Symbols: Chaos
 - Tags: Tactics / Tech
 - Text: Response: After you block a Tactics or Tech attack with this card, add this card to your momentum.
+- K-Dash Form, spend 2 momentum: Search your deck for a card named Chain Drive and a card named Heat Drive, add them to your hand. Shuffle your deck.
 - Role: Defensive momentum access.
