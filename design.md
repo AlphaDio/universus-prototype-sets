@@ -132,8 +132,7 @@ Cost of foundations are based purely on play patters.
 - 0-cost foundations have passive and purely reactive effects.
 - No Uniques on Foundations. Foundations have the play pattern of being stacked, Unique goes against that. Use it for Assets, Foundations can have "X Only" abilities instead.
 - if the concept of a character and its archetype can't be grasped by looking at its foundations, the foundations are failed.
-- Control is a complexity weight. Complex effects should tend toward 4, very simple effects can tend toward 6.
-- Balancing is done through costs, NOT Control and Difficulty. Blocks are character-defining, defining character matchups.
+- Control is a complexity AND balancing weight. Complex effects should tend toward 4, very simple effects can tend toward 6.
 
 ### Throws tidbits
 
