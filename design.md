@@ -125,12 +125,15 @@ Location control should matter. Neutral cards may allow a player to become the c
 
 ### Foundations tidbits
 
-- 3-cost foundations should have effects that are turn-warping and hard stops. Expects that can be used right after building, have few downside, and allow the player to survive the coming turn.
-- 2-cost foundations are the default and thus should house build-around effects, and pay-for effects.
-- 1-cost foundations are efficiency machines and thus pay for it through costs and extensive conditions to fulfill.
-- 0-cost foundations are outliers and mist have severe drawbacks, like no blocks, or rival or matchup dependent effects.
-- No Uniques on Foundations, reserve it for Assets, Foundations can have "X Only" abilities instead.
+Cost of foundations are based purely on play patters.
+- 3-cost foundations should have effects that are turn-warping and hard stops. Effects that can be used right after building, have few downsides, and allow the player to survive the coming enemy turn. MUST be one-use through Removing, Sacrificing, Bouncing, Priming, Burying, or Flipping themselves.
+- 2-cost foundations are the default and thus should house build-around and character-defining effects.
+- 1-cost foundations are efficiency machines with weak effects, their value is extracted through several turns and through numbers, Good for characters that likes lots of foundations, Bad for characters who want to interact with the rival's board. Can also house generic (non-typed) effects.
+- 0-cost foundations have passive and purely reactive effects.
+- No Uniques on Foundations. Foundations have the play pattern of being stacked, Unique goes against that. Use it for Assets, Foundations can have "X Only" abilities instead.
 - if the concept of a character and its archetype can't be grasped by looking at its foundations, the foundations are failed.
+- Control is a complexity weight. Complex effects should tend toward 4, very simple effects can tend toward 6.
+- Balancing is done through costs, NOT Control and Difficulty. Blocks are character-defining, defining character matchups.
 
 ### Throws tidbits
 
