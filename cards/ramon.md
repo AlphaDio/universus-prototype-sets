@@ -126,7 +126,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 
 ### Lucha Timing
 - Type: Foundation
-- Stats: 2 difficulty, 5 control
+- Stats: 2 difficulty, 6 control
 - Block: High +3
 - Symbols: Earth
 - Tags: Technique / Lucha
@@ -145,7 +145,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 
 ### Fan Favorite
 - Type: Foundation
-- Stats: 3 difficulty, 4 control
+- Stats: 2 difficulty, 4 control
 - Block: Mid +2
 - Symbols: Life
 - Tags: Crowd / Lucha
@@ -155,7 +155,7 @@ Ramon is an Earth-centered deck that pressures through throws and half-block dam
 
 ### Rope Counter
 - Type: Foundation
-- Stats: 1 difficulty, 5 control
+- Stats: 2 difficulty, 5 control
 - Block: High +2
 - Symbols: Earth / Life
 - Tags: Technique / Lucha
