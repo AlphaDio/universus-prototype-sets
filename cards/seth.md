@@ -177,5 +177,5 @@ Seth is an Order-centered Tactics deck that survives with strong blocks, then tu
 - Symbols: Order
 - Tags: Guard / Tactics
 - Text: Response: After you block a Strike or Kick attack with this card, reduce the blocked attack's damage by 2.
-- Seth Form Commit: Draw 1 card.
-- Role: Defensive block action.
+- Seth Form: Search your deck for 2 Tactics attacks and them to your hand. Shuffle your deck.
+- Role: Defensive block action and attack access.
