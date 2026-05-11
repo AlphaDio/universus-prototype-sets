@@ -126,9 +126,9 @@ Under the house-rule symbol system, a Location can be played if it shares any sy
 - Type: Foundation
 - Stats: 3 difficulty, 4 control
 - Block: Mid +3
-- Symbols: Good / Order
+- Symbols: All / Order / Death
 - Tags: Venue / Tournament
-- Text: Response Commit: After you play a Location card, bury 1 foundation.
+- Text: Response Commit: After you play a Location card, bury 1 foundation. If you do, build 1 foundation from your hand.
 - Role: Foundation recycle.
 
 ### Shared Intel
@@ -142,11 +142,11 @@ Under the house-rule symbol system, a Location can be played if it shares any sy
 
 ### Tournament Nerves
 - Type: Foundation
-- Stats: 2 difficulty, 5 control
+- Stats: 1 difficulty, 5 control
 - Block: Low +2
 - Symbols: Chaos / Air
 - Tags: Tactics / Tournament
-- Text: Enhance Commit: Commit 1 foundation if the current attack is Punch, Kick, or Strike.
+- Text: Enhance Commit: If this current attack is a Punch, Kick, or Strike, commit 1 rival foundation.
 - Role: Foundation commit.
 
 ### Broken Terrain
@@ -160,11 +160,11 @@ Under the house-rule symbol system, a Location can be played if it shares any sy
 
 ### Fighter's Entrance
 - Type: Foundation
-- Stats: 2 difficulty, 6 control
+- Stats: 1 difficulty, 6 control
 - Block: High +3
 - Symbols: Life / Good
 - Tags: Crowd / Tournament
-- Text: Response Commit: After your first Celebrity, Lucha, or Freestyle attack of the turn deals damage, return 1 of your foundations to your hand.
+- Text: Response Commit: After your first Celebrity, Lucha, or Freestyle attack of the turn deals damage, bounce 1 foundation.
 - Role: Self-foundation bounce.
 
 ### Last Round Pressure
